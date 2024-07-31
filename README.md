@@ -74,9 +74,9 @@
   </tr>
     <tr>
     <td>Le roi se meurt</td>
-    <td>ionesco</td>
-    <td>théâtre</td>
-    <td>folio</td>
+    <td>Ionesco</td>
+    <td>Théâtre</td>
+    <td>Folio</td>
     <td> -</td>
     <td>C1-T</td>
   </tr>
@@ -91,9 +91,128 @@
  
 </table>
 
+<table>
+  <h1> Littérature asiatique </h1>
+  <tr>
+    <th>Titre</th>
+    <th>Auteur</th>
+    <th>genre</th>
+    <th>édition</th>
+    <th> ISBN </th>
+    <th> Placement </th>
+  </tr>
+  <tr>
+    <td>Histoir de ma vie </td>
+    <td>Lao She</td>
+    <td>-</td>
+    <td> Folio </td>
+    <td> -</td> 
+    <td > C1</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+ 
+</table>
+
+<table>
+  <h1> Fantastique & poolicier  </h1>
+  <tr>
+    <th>Titre</th>
+    <th>Auteur</th>
+    <th>genre</th>
+    <th>édition</th>
+    <th> ISBN </th>
+    <th> Placement </th>
+  </tr>
+  <tr>
+    <td> Le seigneur des anneaux  </td>
+    <td>J.R.R. Tolkien</td>
+    <td>Fantastique</td>
+    <td> - </td>
+    <td> - </td> 
+    <td > C1</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+ 
+</table>
+
+<table>
+  <h1> "Académique" </h1>
+  <tr>
+    <th>Titre</th>
+    <th>Auteur</th>
+    <th>genre</th>
+    <th>édition</th>
+    <th> ISBN </th>
+    <th> Placement </th>
+  </tr>
+  <tr>
+    <td>Les indispensables Mathématiques et Physique-Chimie </td>
+    <td>Alexandre MOATTI</td>
+    <td>SA </td>
+    <td> Odile Jacob science</td>
+    <td> 978-2-7381-1722-9 </td> 
+    <td > C1</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+ 
+</table>
+
+<table>
+  <h1> Autres  </h1>
+  <tr>
+    <th>Titre</th>
+    <th>Auteur</th>
+    <th>genre</th>
+    <th>édition</th>
+    <th> ISBN </th>
+    <th> Placement </th>
+  </tr>
+  <tr>
+    <td>Petit manuel pour jeter des (gentils) sorts! </td>
+    <td>-</td>
+    <td>-</td>
+    <td> Larousse </td>
+    <td> 978-2-03-600083-4</td> 
+    <td > C1</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+ 
+</table>
 
  <table>
-  <h1> Tûrkçe kitaplar 土耳其语书籍 </h1>
+  <h1> Türkçe kitaplar 土耳其语书籍 </h1>
   <tr>
     <th>Kitap İsmi</th>
     <th>Yazar</th>
@@ -116,7 +235,7 @@
     <td>Tarih</td>
     <td>Kaynak Yayıncılık</td>
     <td>978-605-68985-2-5 </td>
-    <td>C!</td>
+    <td>C1</td>
   </tr>
   <tr>
     <td></td>
