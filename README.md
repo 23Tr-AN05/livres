@@ -122,7 +122,7 @@
 </table>
 
 <table>
-  <h1> Fantastique & poolicier  </h1>
+  <h1> Fantastique & policier  </h1>
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
@@ -247,5 +247,37 @@
   </tr>
  
 </table>
+
+<table>
+  <h1> 外文书籍  </h1>
+  <tr>
+    <th>Titre</th>
+    <th>Auteur</th>
+    <th> Langue </th>
+    <th>genre</th>
+    <th>édition</th>
+    <th> ISBN </th>
+    <th> Placement </th>
+  </tr>
+  <tr>
+    <td>Idée d une Histoire universelle au point de vue cosmopolitique </td>
+    <td>Emmanuel KANT</td>
+    <td>Filosofia</td>
+    <td> Bordas </td>
+    <td> 2-04-018061-3 </td> 
+    <td > C1</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+ 
+</table>
+
 
  <h4> Fait par Ali Can <h4>
