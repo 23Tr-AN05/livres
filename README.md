@@ -260,6 +260,15 @@
     <th> Placement </th>
   </tr>
   <tr>
+    <td>Harry Potter and the Philosopher s stone</td>
+    <td>J.K. Rowling</td>
+    <td>English</td>
+    <td>Fantastic</td>
+    <td>Bloomsbury </td>
+    <td>978-0-7475-7447-7</td>
+    <td>C1</td>
+  </tr>
+  <tr>
     <td>Harry Potter and the Chamber of secrets</td>
     <td>J.K. Rowling</td>
     <td>English </td>
@@ -268,7 +277,25 @@
     <td> 978-0-7475-7448-4</td> 
     <td > C1</td>
   </tr>
+  <tr>
+    <td>Harry Potter and the Prisoner of Azkaban</td>
+    <td>J.K. Rowling</td>
+    <td>English </td>
+    <td>Fantastic</td>
+    <td> Bloomsbury</td>
+    <td> 978-0-7475-7449-1</td> 
+    <td > C1</td>
+  </tr>
   
+  <tr>
+    <td>The Hobbit</td>
+    <td>J.R.R. Tolkien</td>
+    <td>English</td>
+    <td>Fantastic</td>
+    <td>Tolkien</td>
+    <td> 978-0-261-10221-7</td>
+    <td>C1</td>
+  </tr>
   <tr>
     <td></td>
     <td></td>
