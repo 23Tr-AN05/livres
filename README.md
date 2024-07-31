@@ -81,6 +81,211 @@
     <td>C1-T</td>
   </tr>
   <tr>
+    <td>Le Parfum</td>
+    <td>Patrick Süskind</td>
+    <td>Roman</td>
+    <td>Le livre de poche </td>
+    <td>- </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Nouvelles Histoires extraordinaires</td>
+    <td> Edgar Poe</td>
+    <td>Fiction</td>
+    <td>Le livre de poche</td>
+    <td> -</td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Thérèse Desqueyroux</td>
+    <td>François Mauriac</td>
+    <td>Romn / fiction littéraire</td>
+    <td>Le livre de poche</td>
+    <td>978-2-253-00421-9 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>La ferme des animaux</td>
+    <td>George Orwell</td>
+    <td>Allégorie</td>
+    <td>Folio</td>
+    <td> 978-2-07-037516-5</td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>L Île du jour d avant</td>
+    <td>Umberto ECO</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Les justes</td>
+    <td>ALbert Camus</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>En attendant Godot</td>
+    <td>Samuel Backett</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>La disparition </td>
+    <td>Georges Perec</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>La femme gelée</td>
+    <td>Annie Ernaux</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+  
+   
+  <tr>
+    <td>La honte</td>
+    <td>Annie Ernaux</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>La mort du roi Athur </td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Lancelot du Lac</td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>La quête du Graal </td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Le chevalier de la Charette</td>
+    <td>Chrétien de Troyes </td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Le Colonel Chabert</td>
+    <td>Honoré de Balzac</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Le papa de Simon</td>
+    <td>Maupassant</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Bel-ami</td>
+    <td>Maupassant</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Les faux-monnayeurs</td>
+    <td>André Gide</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>La muraille de Chine</td>
+    <td>Franz Kafka</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Vendredi ou la vie sauvage </td>
+    <td>Michel Tournier</td>
+    <td>Roman (pour enfant)</td>
+    <td>Le livre de poche jeunesse</td>
+    <td> 978-2-01-00161-5</td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td>Pinocchio</td>
+    <td>Carlo Collodi</td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+   
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+   
+  <tr>
     <td></td>
     <td></td>
     <td></td>
@@ -91,12 +296,16 @@
  
 </table>
 
+
+
+
 <table>
   <h1> Littérature asiatique </h1>
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
     <th>genre</th>
+    <th>Pays </th>
     <th>édition</th>
     <th> ISBN </th>
     <th> Placement </th>
@@ -105,18 +314,65 @@
     <td>Histoir de ma vie </td>
     <td>Lao She</td>
     <td>-</td>
+    <td>中国 </td>
     <td> Folio </td>
     <td> -</td> 
     <td > C1</td>
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Élégies de Chu</td>
+    <td>Qu Yuan</td>
+    <td>Poésie</td>
+    <td>中国 </td>
+    <td>Folio</td>
+    <td>978-2-07-300474-1 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>La mort du soleil</td>
+    <td>Yan Lianke</td>
+    <td>Roaman</td>
+    <td>中国</td>
     <td></td>
     <td> </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>La fuite du temps</td>
+    <td>Yan Lianke</td>
+    <td>Roman</td>
+    <td>中国</td>
     <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Mort d une héroïne rouge</td>
+    <td>Qiu Xiaolong</td>
+    <td>Policier</td>
+    <td>中国</td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Chine, retines ton souffle</td>
+    <td>Qiu Xiaolong</td>
+    <td>Policier</td>
+    <td>中国</td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Balzac et la petite tailleuse chinoise</td>
+    <td>Dai Sijie</td>
+    <td>Roaman</td>
+    <td>中国</td>
+    <td></td>
+    <td> </td>
+    <td>C1</td>
   </tr>
  
 </table>
