@@ -260,11 +260,12 @@
     <th> Placement </th>
   </tr>
   <tr>
-    <td>Idée d une Histoire universelle au point de vue cosmopolitique </td>
-    <td>Emmanuel KANT</td>
-    <td>Filosofia</td>
-    <td> Bordas </td>
-    <td> 2-04-018061-3 </td> 
+    <td>Harry Potter and the Chamber of secrets</td>
+    <td>J.K. Rowling</td>
+    <td>English </td>
+    <td>Fantastic</td>
+    <td> Bloomsbury</td>
+    <td> 978-0-7475-7448-4</td> 
     <td > C1</td>
   </tr>
   
@@ -274,6 +275,7 @@
     <td></td>
     <td></td>
     <td> </td>
+    <td></td>
     <td></td>
   </tr>
  
