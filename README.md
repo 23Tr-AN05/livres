@@ -17,10 +17,10 @@
     <td > C1</td>
   </tr>
   <tr>
-    <td>Cinq leçons sur la psychabalyse</td>
+    <td>Cinq leçons sur la psychanalyse</td>
     <td>Sigmund FREUD</td>
     <td>Psychanalyse</td>
-    <td> petit bibliothéque payot </td>
+    <td> Petit Bibliothéque Payot </td>
     <td> 2-228-30849-8 </td>
     <td> C1 </td>
   </tr>
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td>小王子</td>
-    <td>Antoinde de saint-exupery</td>
+    <td>Antoinde de SAINT-EXUPÉRY</td>
     <td>-</td>
     <td>-</td>
     <td>978-7-201-07764-2 </td>
@@ -91,24 +91,32 @@
  
 </table>
 
- <h4> Ali Can <h4>
+
  <table>
   <h1> Tûrkçe kitaplar 土耳其语书籍 </h1>
   <tr>
-    <th>Titre</th>
-    <th>Auteur</th>
-    <th>genre</th>
-    <th>édition</th>
+    <th>Kitap İsmi</th>
+    <th>Yazar</th>
+    <th>Tür</th>
+    <th>Yayın evi</th>
     <th> ISBN </th>
-    <th> Placement </th>
+    <th> Yeri </th>
   </tr>
   <tr>
-    <td>Idée d une Histoire universelle au point de vue cosmopolitique </td>
-    <td>Emmanuel KANT</td>
-    <td>Filosofia</td>
-    <td> Bordas </td>
-    <td> 2-04-018061-3 </td> 
+    <td>Gılgamış Destanı</td>
+    <td>Mehmet Ali Atak</td>
+    <td>Tarih</td>
+    <td> Anonim Yayıncılık</td>
+    <td> 978-605-100-384-1 </td> 
     <td > C1</td>
+  </tr>
+  <tr>
+    <td>Sumerli Ludingirra / geçmişe dönük bilimkurgu</td>
+    <td>Muazzez İlmiye Çığ</td>
+    <td>Tarih</td>
+    <td>Kaynak Yayıncılık</td>
+    <td>978-605-68985-2-5 </td>
+    <td>C!</td>
   </tr>
   <tr>
     <td></td>
@@ -120,3 +128,5 @@
   </tr>
  
 </table>
+
+ <h4> Fait par Ali Can <h4>
