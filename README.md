@@ -72,4 +72,21 @@
     <td>978-2-253-94095-1 </td>
     <td>C1 -T</td>
   </tr>
+    <tr>
+    <td>Le roi se meurt</td>
+    <td>ionesco</td>
+    <td>théâtre</td>
+    <td>folio</td>
+    <td> -</td>
+    <td>C1-T</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+  
 </table>
