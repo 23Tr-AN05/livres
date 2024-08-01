@@ -309,6 +309,54 @@
     <td>2-7028-86461-8 </td>
     <td>C1</td>
   </tr>
+   <tr>
+    <td>Les femmes savantes</td>
+    <td>Molière</td>
+    <td>Théâtre</td>
+    <td>Librio (2€)</td>
+    <td> 978-2-290-23613-0</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>La Parure</td>
+    <td>Maupassant</td>
+    <td>Nouvelle réaliste</td>
+    <td>Librio (2€)</td>
+    <td>978-2-290-15129-7 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>L Île des esclaves</td>
+    <td>Marivaux</td>
+    <td>Théâtre</td>
+    <td>Librio (2€)</td>
+    <td> 978-2-290-23524-9 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Le malade imaginaire</td>
+    <td>Molière</td>
+    <td>Théâtre</td>
+    <td>Librio (2€)</td>
+    <td>978-2-290-22984-2 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>La Belle et la Bête</td>
+    <td>M<sub>me</sub> Leprince de Beaumont</td>
+    <td>Conte de fée</td>
+    <td>Librio (2€)</td>
+    <td> 978-2-290-14626-2 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td><b>Perceval </b> ou le conte du Graal</td>
+    <td>Chrétien de Troyes</td>
+    <td>Roman de Chevalerie</td>
+    <td>Librio (2€)</td>
+    <td> 978-2-290-37419-1 </td>
+    <td>C1</td>
+  </tr>
 </table>
 
 
@@ -411,12 +459,12 @@
     <td > C1</td>
   </tr>
    <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
+    <td>Contes & Légendes inachevés</td>
+    <td>J.R.R. Tolkien</td>
+    <td>Fantastique</td>
+    <td>Pocket</td>
+    <td>2-266-11800-5 </td>
+    <td>C1</td>
   </tr>
   
   <tr>
