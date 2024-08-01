@@ -421,6 +421,38 @@
     <td>978-2-07-043728-3 </td>
     <td>C1</td>
   </tr>
+   <tr>
+    <td>Amour et amitié</td>
+    <td>Jane Austen</td>
+    <td>Roman / Nouvelle</td>
+    <td>Folio (2€)</td>
+    <td>978-2-07-286537-4 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td><q> Cher Monsieur Germain,...</q></td>
+    <td>Albert Camus</td>
+    <td>Lettres et extraits</td>
+    <td>Folio (2€)</td>
+    <td> 978-2-07-295654-6</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td> La cefetière</td>
+    <td>Théophile Gautier</td>
+    <td>Fantasy littéraire</td>
+    <td>Folio(2€)</td>
+    <td>978-2-07-044362-8</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Lettre au père</td>
+    <td>Franz Kafka</td>
+    <td>Folio (2€)</td>
+    <td>Non-fiction</td>
+    <td> 978-2-07-042206-7</td>
+    <td></td>
+  </tr>
 </table>
 
 
@@ -439,11 +471,11 @@
   </tr>
   <tr>
     <td>Histoir de ma vie </td>
-    <td>Lao She</td>
-    <td>-</td>
+    <td>Lao She<br/> 老舍</td>
+    <td>Fiction</td>
     <td>中国 </td>
-    <td> Folio </td>
-    <td> -</td> 
+    <td> Folio (2€)</td>
+    <td> </td> 
     <td > C1</td>
   </tr>
   
@@ -458,7 +490,7 @@
   </tr>
    <tr>
     <td>La mort du soleil</td>
-    <td>Yan Lianke</td>
+    <td>Yan Lianke <br/> 阎连科</td>
     <td>Roaman</td>
     <td>中国</td>
     <td></td>
@@ -476,11 +508,11 @@
   </tr>
    <tr>
     <td>Mort d une héroïne rouge</td>
-    <td>Qiu Xiaolong</td>
+    <td>Qiu Xiaolong <br/> 裘小龙</td>
     <td>Policier</td>
     <td>中国</td>
-    <td></td>
-    <td> </td>
+    <td>Points / Éditions Liana Levi</td>
+    <td>2-02-048887-6 </td>
     <td>C1</td>
   </tr>
    <tr>
@@ -494,13 +526,32 @@
   </tr>
    <tr>
     <td>Balzac et la petite tailleuse chinoise</td>
-    <td>Dai Sijie</td>
-    <td>Roaman</td>
+    <td>Dai Sijie <br/> 戴思杰</td>
+    <td>Roman / fiction</td>
     <td>中国</td>
-    <td></td>
-    <td> </td>
+    <td> Folio</td>
+    <td> 2-07-041680-1</td>
     <td>C1</td>
   </tr>
+   <tr>
+    <td>L Évangile selon Yong Sheng </td>
+    <td>Dai Sijie</td>
+    <td>Fiction</td>
+    <td> 中国</td>
+    <td>Folio</td>
+    <td> 978-2-07-288241-8</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>孽子</td>
+    <td>白先勇</td>
+    <td>Roman / fiction</td>
+    <td>中国</td>
+    <td> Picquier poche</td>
+    <td>2-87730-603-8 </td>
+    <td>C1</td>
+  </tr>
+  
  
 </table>
 
@@ -519,7 +570,7 @@
     <td>J.R.R. Tolkien</td>
     <td>Fantastique</td>
     <td> Pocket </td>
-    <td> - </td> 
+    <td> 2-266-11561-8 </td> 
     <td > C1</td>
   </tr>
    <tr>
@@ -530,8 +581,64 @@
     <td>2-266-11800-5 </td>
     <td>C1</td>
   </tr>
+   <tr>
+    <td>La pyramide rouge</td>
+    <td>Rick Riordan</td>
+    <td>Fantistique</td>
+    <td>Le livre de poche jeunesse</td>
+    <td> 978-2-01-712596-9</td>
+    <td>C1</td>
+  </tr>
+     <tr>
+    <td>Héros de l Olympe - Le héros perdu</td>
+    <td>Rick Riordan</td>
+    <td>Fantastique</td>
+    <td>Le livre de poche jeunesse </td>
+    <td>978-2-01-203199-9 </td>
+    <td>C1</td>
+  </tr>
+     <tr>
+    <td>Héros de l Olympe - le fils de Neptune</td>
+    <td></td>
+    <td></td>
+    <td>Le livre de poche jeunesse</td>
+    <td>978-2-01-203175-3 </td>
+    <td>C1</td>
+  </tr>
+     <tr>
+    <td>La guerre des clans <br/> 1- Retour à l'état sauvage</td>
+    <td>Erin Hunter</td>
+    <td>Fantastique</td>
+    <td>Pocket jeunesse - PKJ</td>
+    <td>978-2-26-16865-6 </td>
+    <td>C1</td>
+  </tr>
+     <tr>
+    <td>Le Royaume des Loups<br/> Faolan le solitaire</td>
+    <td rowspan="2">>Kathryn Lasky</td>
+    <td>Fantastique</td>
+    <td>Pocket jeunesse - PKJ</td>
+    <td>978-2-26-6629389-1 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Le Royaume des loups <br/> Dans l'ombre de la meute</td>
+    <td></td>
+    <td>Fantastique</td>
+    <td>Pocket jeunesse - PKJ </td>
+    <td>978-2-26-29390-7</td>
+    <td>C</td>
+  </tr>
   
   <tr>
+    <td>L énigme de clou chinois <br/> The chinese nail Murders</td>
+    <td>Robert Van Gulik</td>
+    <td>Détective / mystère / fiction historique</td>
+    <td>Éditions 10/18</td>
+    <td>978-2-264-00696-7 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
     <td></td>
     <td></td>
     <td></td>
