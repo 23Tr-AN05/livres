@@ -543,7 +543,8 @@
 </table>
 
 <table>
-  <h1> "Académique" </h1>
+ <h1> "Académique" </h1> 
+
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
@@ -574,6 +575,7 @@
 
 <table>
   <h1> Autres  </h1>
+
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
@@ -581,8 +583,8 @@
     <th>édition</th>
     <th> ISBN </th>
     <th> Placement </th>
-  -</tr>
-  <-tr>
+  </tr>
+  <tr>
     <td>Petit manuel pour jeter des (gentils) sorts! </td>
     <td>-</td>
     <td>-</td>
