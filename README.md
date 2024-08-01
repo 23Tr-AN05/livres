@@ -97,6 +97,14 @@
     <td>C1</td>
   </tr>
   <tr>
+    <td>Le marquis de Villemer</td>
+    <td>George Sand</td>
+    <td>Roman</td>
+    <td>-</td>
+    <td> -</td>
+    <td>C1</td>
+  </tr>
+  <tr>
     <td>Thérèse Desqueyroux</td>
     <td>François Mauriac</td>
     <td>Romn / fiction littéraire</td>
@@ -130,7 +138,14 @@
     <td>2-07-036477-1 </td>
     <td>C1</td>
   </tr>
-   
+   <tr>
+    <td>Discours de la méthde</td>
+    <td>Descartes</td>
+    <td>Filosofia</td>
+    <td>GF Flammarion</td>
+    <td>978-2-0807-1091-8 </td>
+    <td>C1</td>
+  </tr>
   <tr>
     <td>En attendant Godot</td>
     <td>Samuel Backett</td>
@@ -299,7 +314,7 @@
     <td>Roman / Fiction</td>
     <td>Folio- Classique</td>
     <td> 2-07-026784-3 </td>
-    <td>C1<</td>
+    <td>C1</td>
   </tr>
   <tr>
     <td>Petits crimes conjugaux</td>
@@ -395,6 +410,14 @@
     <td>Fiction historique / Roman jeunesse</td>
     <td>Le livre de poche jeunesse </td>
     <td>978-2-01-397148-5 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>La Princesse de Clèves</td>
+    <td>Madame de Lafayette</td>
+    <td>Roman</td>
+    <td>Folio- Classique</td>
+    <td>978-2-07-041443-7 </td>
     <td>C1</td>
   </tr>
    <tr>
@@ -788,7 +811,29 @@
     <td> 978-2-7381-1722-9 </td> 
     <td > C1</td>
   </tr>
-  
+  <tr>
+    <td>La symphonie des nombres premiers</td>
+    <td rowspan="2">Marcus du Sautoy</td>
+    <td>Maths</td>
+    <td>Points</td>
+    <td>978-2-7578-0429-2 </td>
+    <td>C1-T</td>
+  </tr>
+  <tr>
+    <td>Le mystère des nombres</td>
+    <td>Math</td>
+    <td>Folio-Essais</td>
+    <td> 978-2-07-046588-0</td>
+    <td>C1-T</td>
+  </tr>
+  <tr>
+    <td>Histoire des mathématiques</td>
+    <td>-</td>
+    <td>math-encyclopedie</td>
+    <td>Encyclopoche Larousse</td>
+    <td> 2-03-001021-9</td>
+    <td>C1-T</td>
+  </tr>
   <tr>
     <td></td>
     <td></td>
@@ -796,6 +841,22 @@
     <td></td>
     <td> </td>
     <td></td>
+  </tr>
+  <tr>
+    <td>L acquisition du language par l'enfant</td>
+    <td>Josie Bernicot <br/> Alain Bert-Erboul</td>
+    <td>Psychologie - développement de l enfant </td>
+    <td>Concept-psy</td>
+    <td>978-2-84835-164-3 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Le développement du language</td>
+    <td>Agnès Florin</td>
+    <td>Psychologie- développement de l enfant </td>
+    <td>DUNOP</td>
+    <td> 978-2-10-004195-4</td>
+    <td>C1</td>
   </tr>
  
 </table>
@@ -810,6 +871,15 @@
     <th>édition</th>
     <th> ISBN </th>
     <th> Placement </th>
+  </tr>
+  
+   <tr>
+    <td>5 Histoires extraordinaires!<br><Sup>UPE2A- Collège Maurice Becanne- M<sub>me</sub> Alquier</sup></td>
+    <td>co-</td>
+    <td>nouvelles</td>
+    <td><i> <b>Réparer le language</b> je peux </i> </td>
+    <td>978-2-494941-00-7 </td>
+    <td>C1</td>
   </tr>
   <tr>
     <td>Petit manuel pour jeter des (gentils) sorts! </td>
@@ -868,16 +938,28 @@
     <td>978-2-7540-7429-2</td>
     <td> C1</td>
   </tr>
- 
-   <tr>
-    <td>5 Histoires extraordinaires!<br><Sup>UPE2A- Collège Maurice Becanne- M<sub>me</sub> Alquier</sup></td>
-    <td>co-</td>
-    <td>nouvelles</td>
-    <td><i> <b>Réparer le language</b> je peux </i> </td>
-    <td>978-2-494941-00-7 </td>
+ <tr>
+    <td>Apprendre à Apprendre </td>
+    <td rowspan="2">André Giordan <br/> Jérôme Saltet</td>
+    <td rowspan="2">-</td>
+    <td>Librio (3€)</td>
+    <td>978-2-290-17401-2 </td>
     <td>C1</td>
   </tr>
-  
+  <tr>
+    <td>Apprendre à prendre des notes</td>
+    <td>Librio (3€)</td>
+    <td>978-2-290-21583-8</td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
    <tr>
     <td></td>
     <td></td>
@@ -948,6 +1030,14 @@
     <td>C1</td>
   </tr>
    <tr>
+    <td>Satranç</td>
+    <td>Stefan Zweig</td>
+    <td>-</td>
+    <td>Can</td>
+    <td> 978-975-07-3141-9</td>
+    <td>C1</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
