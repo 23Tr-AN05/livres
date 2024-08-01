@@ -287,13 +287,28 @@
    
   <tr>
     <td>La cantatrice chauve <br/> (suive de La leçon)</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
+    <td>Ionesco</td>
+    <td>Théâtre</td>
+    <td>Folio</td>
+    <td> 2-07-036236-1</td>
+    <td>C1</td>
   </tr>
- 
+   <tr>
+    <td>Le père Goriot </td>
+    <td>Honoré de Balzac</td>
+    <td>Roman / Fiction</td>
+    <td>Folio- Classique</td>
+    <td> 2-07-026784-3 </td>
+    <td>C1<</td>
+  </tr>
+  <tr>
+    <td>Petits crimes conjugaux</td>
+    <td>Eric-Emmanuel Schmitt</td>
+    <td>Théâtre / Fiction psychologique</td>
+    <td>le Club</td>
+    <td>2-7028-86461-8 </td>
+    <td>C1</td>
+  </tr>
 </table>
 
 
@@ -391,9 +406,17 @@
     <td> Le seigneur des anneaux  </td>
     <td>J.R.R. Tolkien</td>
     <td>Fantastique</td>
-    <td> - </td>
+    <td> Pocket </td>
     <td> - </td> 
     <td > C1</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -454,6 +477,14 @@
     <td> Larousse </td>
     <td> 978-2-03-600083-4</td> 
     <td > C1</td>
+  </tr>
+   <tr>
+    <td>Chattitudes</td>
+    <td>Sayo Koizumi</td>
+    <td>Sur les chats</td>
+    <td>Larousse</td>
+    <td> 978-2-03-5879330-1</td>
+    <td>C1</td>
   </tr>
   
   <tr>
