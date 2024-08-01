@@ -152,9 +152,9 @@
   <tr>
     <td>La femme gelée</td>
     <td>Annie Ernaux</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman</td>
+    <td>Folio</td>
+    <td>978-2-07-037818-0 </td>
     <td>C1</td>
   </tr>
   
@@ -162,7 +162,7 @@
   <tr>
     <td>La honte</td>
     <td>Annie Ernaux</td>
-    <td>Roman</td>
+    <td>Roman / récit autobiographique</td>
     <td>Gallimard</td>
     <td>2-07-074787-5</td>
     <td>C1</td>
