@@ -67,7 +67,7 @@
     <tr>
     <td>Les mots immigrés</td>
     <td>Eric ORSENNA</td>
-    <td>-</td>
+    <td>Patrimoine / Fiction littéraire</td>
     <td>Le livre de poche</td>
     <td>978-2-253-94095-1 </td>
     <td>C1 -T</td>
@@ -116,27 +116,27 @@
   <tr>
     <td>L Île du jour d avant</td>
     <td>Umberto ECO</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman historique</td>
+    <td>Le livre de poche</td>
+    <td> 2-253-14361-8</td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>Les justes</td>
     <td>ALbert Camus</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Théâtre</td>
+    <td>Folio</td>
+    <td>2-07-036477-1 </td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>En attendant Godot</td>
     <td>Samuel Backett</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Tragi-comédie / Fiction absurde</td>
+    <td>Les éditions de minuit</td>
+    <td>978-2-7073-0148-2 </td>
     <td>C1</td>
   </tr>
    
@@ -243,9 +243,9 @@
   <tr>
     <td>La muraille de Chine</td>
     <td>Franz Kafka</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Nouvelle / fiction</td>
+    <td>Folio</td>
+    <td> 2-07-03654-5</td>
     <td>C1</td>
   </tr>
    
@@ -268,25 +268,25 @@
   </tr>
    
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
+    <td>La vie devant soi</td>
+    <td>Romain Gary ( Émile Ajar)</td>
+    <td>Roman / Fiction</td>
+    <td>Folio</td>
+    <td>2-07-0373626-2 </td>
+    <td>C1</td>
   </tr>
    
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
+    <td>Étranger</td>
+    <td>Albert Camus</td>
+    <td>Roman / Fiction absurde - philosophique</td>
+    <td>Folio -plus - classique</td>
+    <td>978-2-07-030602-2 </td>
+    <td>C1</td>
   </tr>
    
   <tr>
-    <td></td>
+    <td>La cantatrice chauve <br/> (suive de La leçon)</td>
     <td></td>
     <td></td>
     <td></td>
