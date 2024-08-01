@@ -567,7 +567,7 @@
     <td>C1</td>
   </tr>
    <tr>
-    <td>5 Histoires extraordinaires!<!--UPE2A- collège Maurice Becanne- M<sub>me</sub> Alquier--></td>
+    <td>5 Histoires extraordinaires!<br><Sup>UPE2A- Collège Maurice Becanne- M<sub>me</sub> Alquier</sup>></td>
     <td>co-</td>
     <td>nouvelles</td>
     <td><i> <b>Réparer le language</b> je peux </i> </td>
