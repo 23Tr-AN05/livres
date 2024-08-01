@@ -490,7 +490,7 @@
   </tr>
    <tr>
     <td>La mort du soleil</td>
-    <td>Yan Lianke <br/> 阎连科</td>
+    <td rowspan="2">Yan Lianke <br/> 阎连科</td>
     <td>Roaman</td>
     <td>中国</td>
     <td></td>
@@ -499,7 +499,6 @@
   </tr>
    <tr>
     <td>La fuite du temps</td>
-    <td>Yan Lianke</td>
     <td>Roman</td>
     <td>中国</td>
     <td></td>
@@ -508,7 +507,7 @@
   </tr>
    <tr>
     <td>Mort d une héroïne rouge</td>
-    <td>Qiu Xiaolong <br/> 裘小龙</td>
+    <td rpwspan="2">Qiu Xiaolong <br/> 裘小龙</td>
     <td>Policier</td>
     <td>中国</td>
     <td>Points / Éditions Liana Levi</td>
@@ -517,7 +516,6 @@
   </tr>
    <tr>
     <td>Chine, retines ton souffle</td>
-    <td>Qiu Xiaolong</td>
     <td>Policier</td>
     <td>中国</td>
     <td></td>
@@ -526,7 +524,7 @@
   </tr>
    <tr>
     <td>Balzac et la petite tailleuse chinoise</td>
-    <td>Dai Sijie <br/> 戴思杰</td>
+    <td rowspan="2">Dai Sijie <br/> 戴思杰</td>
     <td>Roman / fiction</td>
     <td>中国</td>
     <td> Folio</td>
@@ -535,7 +533,6 @@
   </tr>
    <tr>
     <td>L Évangile selon Yong Sheng </td>
-    <td>Dai Sijie</td>
     <td>Fiction</td>
     <td> 中国</td>
     <td>Folio</td>
@@ -567,7 +564,7 @@
   </tr>
   <tr>
     <td> Le seigneur des anneaux  </td>
-    <td>J.R.R. Tolkien</td>
+    <td rowspan="2">J.R.R. Tolkien</td>
     <td>Fantastique</td>
     <td> Pocket </td>
     <td> 2-266-11561-8 </td> 
@@ -575,7 +572,6 @@
   </tr>
    <tr>
     <td>Contes & Légendes inachevés</td>
-    <td>J.R.R. Tolkien</td>
     <td>Fantastique</td>
     <td>Pocket</td>
     <td>2-266-11800-5 </td>
