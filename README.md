@@ -164,43 +164,43 @@
     <td>Annie Ernaux</td>
     <td></td>
     <td></td>
-    <td> </td>
+    <td>- </td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>La mort du roi Athur </td>
     <td>-</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman de Chevalerie </td>
+    <td>Le livre de poche <br/> Lettres gothiques</td>
+    <td>978-2-253-08237-8 </td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>Lancelot du Lac</td>
     <td>-</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman de Chevalerie</td>
+    <td>Le livre de poche <br/> Lettres gothiques</td>
+    <td> 978-2-253-08237-8 </td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>La quête du Graal </td>
     <td>-</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman de Chevalerie </td>
+    <td>Éditions du Seuil</td>
+    <td>2-02-006217-8 </td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>Le chevalier de la Charette</td>
     <td>Chrétien de Troyes </td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman de chevalerie</td>
+    <td>Le livre dde poche <br/> Lettres gothiques</td>
+    <td> 2-253-05401-1</td>
     <td>C1</td>
   </tr>
    
@@ -252,7 +252,7 @@
   <tr>
     <td>Vendredi ou la vie sauvage </td>
     <td>Michel Tournier</td>
-    <td>Roman (pour enfant)</td>
+    <td>Roman (pour enfant)/ fiction</td>
     <td>Le livre de poche jeunesse</td>
     <td> 978-2-01-00161-5</td>
     <td>C1</td>
@@ -261,9 +261,9 @@
   <tr>
     <td>Pinocchio</td>
     <td>Carlo Collodi</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Littérature pour les enfant <br/> Récit d'aventure</td>
+    <td>Le livre de poche jeunesse</td>
+    <td> 978-2-01-00161-5</td>
     <td>C1</td>
   </tr>
    
@@ -382,12 +382,44 @@
     <td>C1</td>
   </tr>
    <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
+    <td>Complot à Versailles</td>
+    <td>Annie Jay</td>
+    <td>Fiction historique / Roman jeunesse</td>
+    <td>Le livre de poche jeunesse</td>
+    <td>978-2-01-000925-9 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Au nom du roi</td>
+    <td>Annie Jay</td>
+    <td>Fiction historique / Roman jeunesse</td>
+    <td>Le livre de poche jeunesse </td>
+    <td>978-2-01-397148-5 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Une vie</td>
+    <td>Maupassant</td>
+    <td>Roman / fiction</td>
+    <td>Flammarion - Étonnants classiques</td>
+    <td>978-2-0813-4786-1 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Les Mystres d Udolphe</td>
+    <td>Ann Radcliffe</td>
+    <td>Roman/ Horreur <br/> Fiction gothique</td>
+    <td>Folio classique</td>
+    <td>978-2-07-040377-6 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Les contemplations</td>
+    <td>Victor HUGO</td>
+    <td>Poésie </td>
+    <td>Folio</td>
+    <td>978-2-07-043728-3 </td>
+    <td>C1</td>
   </tr>
 </table>
 
@@ -549,8 +581,8 @@
     <th>édition</th>
     <th> ISBN </th>
     <th> Placement </th>
-  </tr>
-  <tr>
+  -</tr>
+  <-tr>
     <td>Petit manuel pour jeter des (gentils) sorts! </td>
     <td>-</td>
     <td>-</td>
@@ -567,7 +599,7 @@
     <td>C1</td>
   </tr>
    <tr>
-    <td>5 Histoires extraordinaires!<br><Sup>UPE2A- Collège Maurice Becanne- M<sub>me</sub> Alquier</sup>></td>
+    <td>5 Histoires extraordinaires!<br><Sup>UPE2A- Collège Maurice Becanne- M<sub>me</sub> Alquier</sup></td>
     <td>co-</td>
     <td>nouvelles</td>
     <td><i> <b>Réparer le language</b> je peux </i> </td>
@@ -575,7 +607,7 @@
     <td>C1</td>
   </tr>
   
-  <tr>
+   <tr>
     <td></td>
     <td></td>
     <td></td>
