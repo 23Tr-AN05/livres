@@ -572,6 +572,24 @@
     <td>2-87730-603-8 </td>
     <td>C1</td>
   </tr>
+  <tr>
+    <td>Le livre de Thé</td>
+    <td>OKAKURA Kakuzô</td>
+    <td>Essai / phi</td>
+    <td> 日本</td>
+    <td>Picquier poche</td>
+    <td>978-2-87730-821-9 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Choses qui rendent heureux</td>
+    <td>Sei Shônagon</td>
+    <td>Fiction</td>
+    <td>日本</td>
+    <td>Folio - sagesse </td>
+    <td> 978-2-07-292490-3</td>
+    <td>C1</td>
+  </tr>
   
  
 </table>
@@ -724,6 +742,48 @@
     <td> 978-2-03-5879330-1</td>
     <td>C1</td>
   </tr>
+  
+   <tr>
+    <td>Le Japonais en 5 minutes par jour</td>
+    <td>Vincent Grépinet</td>
+    <td>Langue</td>
+    <td rowspan="5">Firt Éditions</td>
+    <td>978-2-412-04165-9 </td>
+    <td>C1</td>
+  </tr>
+ 
+   <tr>
+    <td>Le Chinois en 5 minutes par jour</td>
+    <td>Jing Li</td>
+    <td>Langue</td>
+    <td>978-2-412-041642 </td>
+    <td>C1</td>
+  </tr>
+ 
+   <tr>
+    <td>Le coréen en 5 minutes par jour</td>
+    <td>-</td>
+    <td>Langue</td>
+    <td> </td>
+    <td>给了ha ngoc</td>
+  </tr>
+ 
+   <tr>
+    <td>Language symbolique des fleurs</td>
+    <td>Didier Colin</td>
+    <td>Fleur</td>
+    <td>978-2-412-08723-7 </td>
+    <td>C1</td>
+  </tr>
+ 
+   <tr>
+    <td>Le petit livre des symboles</td>
+    <td>Fabrizio Vecoli</td>
+    <td>Symboles</td>
+    <td>978-2-7540-7429-2</td>
+    <td> C1</td>
+  </tr>
+ 
    <tr>
     <td>5 Histoires extraordinaires!<br><Sup>UPE2A- Collège Maurice Becanne- M<sub>me</sub> Alquier</sup></td>
     <td>co-</td>
