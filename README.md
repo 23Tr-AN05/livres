@@ -583,7 +583,7 @@
   </tr>
    <tr>
     <td>La pyramide rouge</td>
-    <td>Rick Riordan</td>
+    <td rowspan="3">Rick Riordan</td>
     <td>Fantistique</td>
     <td>Le livre de poche jeunesse</td>
     <td> 978-2-01-712596-9</td>
@@ -591,7 +591,7 @@
   </tr>
      <tr>
     <td>Héros de l Olympe - Le héros perdu</td>
-    <td>Rick Riordan</td>
+    <td></td>
     <td>Fantastique</td>
     <td>Le livre de poche jeunesse </td>
     <td>978-2-01-203199-9 </td>
@@ -615,7 +615,7 @@
   </tr>
      <tr>
     <td>Le Royaume des Loups<br/> Faolan le solitaire</td>
-    <td rowspan="2">>Kathryn Lasky</td>
+    <td rowspan="2">Kathryn Lasky</td>
     <td>Fantastique</td>
     <td>Pocket jeunesse - PKJ</td>
     <td>978-2-26-6629389-1 </td>
