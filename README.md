@@ -507,7 +507,7 @@
   </tr>
    <tr>
     <td>Mort d une héroïne rouge</td>
-    <td rpwspan="2">Qiu Xiaolong <br/> 裘小龙</td>
+    <td rowspan="2">Qiu Xiaolong <br/> 裘小龙</td>
     <td>Policier</td>
     <td>中国</td>
     <td>Points / Éditions Liana Levi</td>
