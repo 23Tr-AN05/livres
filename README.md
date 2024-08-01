@@ -207,36 +207,36 @@
   <tr>
     <td>Le Colonel Chabert</td>
     <td>Honoré de Balzac</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Fiction / roman court</td>
+    <td>Le livre de poche</td>
+    <td> 2-253-09804-3</td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>Le papa de Simon</td>
     <td>Maupassant</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Nouvelle / fiction</td>
+    <td>GF Flammarion - Etonnants classiques</td>
+    <td> 2-08-07004-X</td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>Bel-ami</td>
     <td>Maupassant</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman / réalisme / fiction littéraire</td>
+    <td>GF Flammarion</td>
+    <td> 2-08-071071-0</td>
     <td>C1</td>
   </tr>
    
   <tr>
     <td>Les faux-monnayeurs</td>
     <td>André Gide</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman / fiction</td>
+    <td>Folio</td>
+    <td> 2-07-036879-3</td>
     <td>C1</td>
   </tr>
    
