@@ -143,9 +143,9 @@
   <tr>
     <td>La disparition </td>
     <td>Georges Perec</td>
-    <td></td>
-    <td></td>
-    <td> </td>
+    <td>Roman / LIPOGRAMME</td>
+    <td>L'imaginaire - Gallimard</td>
+    <td>978-2-07-071523-7 </td>
     <td>C1</td>
   </tr>
    
@@ -162,9 +162,9 @@
   <tr>
     <td>La honte</td>
     <td>Annie Ernaux</td>
-    <td></td>
-    <td></td>
-    <td>- </td>
+    <td>Roman</td>
+    <td>Gallimard</td>
+    <td>2-07-074787-5</td>
     <td>C1</td>
   </tr>
    
@@ -470,6 +470,54 @@
     <td>C1</td>
   </tr>
   <tr>
+    <td>Le chemin</td>
+    <td>Miguel Delibes</td>
+    <td>Littératures Esp</td>
+    <td>Verdier -otra memoria</td>
+    <td>978-2-86432-207-8 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Dracula et autres histoires de vampires</td>
+    <td>-</td>
+    <td>Fiction littéraire/ Nouvelles</td>
+    <td>Librio (2€)</td>
+    <td>978-2-290-17391-6 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Dracula</td>
+    <td>Bram Stoker</td>
+    <td>Roman / Horreur/ fiction littéraire</td>
+    <td>Classiques abrégés</td>
+    <td>978-2-211-07438-4</td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Le mythe de Sisyphe</td>
+    <td>Albert Camus</td>
+    <td>Filosofia- Essai</td>
+    <td>Folio-essais</td>
+    <td>978-2-07-032288-6 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Manuel D exil <br/> comment réussir son exil en trente-cinq leçons</td>
+    <td>Velibor Čolić</td>
+    <td>-</td>
+    <td>Folio</td>
+    <td>978-2-07-274472-3</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>L âme du monde</td>
+    <td>Fédéric Lenoir</td>
+    <td>Fiction</td>
+    <td>Pocket</td>
+    <td> 978-2-26-6240656-9</td>
+    <td>C1</td>
+  </tr>
+   <tr>
     <td></td>
     <td></td>
     <td></td>
@@ -517,16 +565,16 @@
     <td rowspan="2">Yan Lianke <br/> 阎连科</td>
     <td>Roaman</td>
     <td>中国</td>
-    <td></td>
-    <td> </td>
+    <td>Picquier poche / CNL</td>
+    <td> 978-2-8097-1602-3</td>
     <td>C1</td>
   </tr>
    <tr>
     <td>La fuite du temps</td>
     <td>Roman</td>
     <td>中国</td>
-    <td></td>
-    <td> </td>
+    <td>Picquier poche / CNL</td>
+    <td>978-2-8097-1323-7 </td>
     <td>C1</td>
   </tr>
    <tr>
@@ -543,7 +591,7 @@
     <td>Policier</td>
     <td>中国</td>
     <td>Points / Éditions Liana Levi</td>
-    <td> </td>
+    <td> 978-2-7578-7796-68</td>
     <td>C1</td>
   </tr>
    <tr>
@@ -572,6 +620,15 @@
     <td>2-87730-603-8 </td>
     <td>C1</td>
   </tr>
+   <tr>
+    <td>Le maître de plus en plus d humour</td>
+    <td>Mo Yan</td>
+    <td>Nouvelle </td>
+    <td>中国</td>
+    <td>Points </td>
+    <td>978-2-02-0859566-1</td>
+    <td>C1</td>
+  </tr>
   <tr>
     <td>Le livre de Thé</td>
     <td>OKAKURA Kakuzô</td>
@@ -590,6 +647,34 @@
     <td> 978-2-07-292490-3</td>
     <td>C1</td>
   </tr>
+   <tr>
+    <td>je suis un chat</td>
+    <td>Natsume Sosêki</td>
+    <td>Roman / satire / fiction-comique</td>
+    <td>日本</td>
+    <td>Gallimard / UNESCO </td>
+    <td> 978-2-07-070634-1</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Pachinko</td>
+    <td>Min Jin Lee <br/> 이민진</td>
+    <td>Roman / Fiction historique</td>
+    <td>한민국</td>
+    <td>Harper Collins / Poche</td>
+    <td> 979-1-0339-0895-1</td>
+    <td>C1</td>
+  </tr>
+  
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+
   
  
 </table>
@@ -628,14 +713,14 @@
     <td>C1</td>
   </tr>
      <tr>
-    <td>Héros de l Olympe - Le héros perdu</td>
+    <td>Héros de l Olympe <br/> Le héros perdu</td>
     <td>Fantastique</td>
     <td>Le livre de poche jeunesse </td>
     <td>978-2-01-203199-9 </td>
     <td>C1</td>
   </tr>
      <tr>
-    <td>Héros de l Olympe - le fils de Neptune</td>
+    <td>Héros de l Olympe  <br/> Le fils de Neptune</td>
     <td>Fantastique</td>
     <td>Le livre de poche jeunesse</td>
     <td>978-2-01-203175-3 </td>
@@ -666,7 +751,7 @@
   </tr>
   
   <tr>
-    <td>L énigme de clou chinois <br/> The chinese nail Murders</td>
+    <td>L énigme de clou chinois <br/> The Chinese Nail Murders</td>
     <td>Robert Van Gulik</td>
     <td>Détective / mystère / fiction historique</td>
     <td>Éditions 10/18</td>
@@ -747,7 +832,7 @@
     <td>Le Japonais en 5 minutes par jour</td>
     <td>Vincent Grépinet</td>
     <td>Langue</td>
-    <td rowspan="5">Firt Éditions</td>
+    <td rowspan="5">First Éditions</td>
     <td>978-2-412-04165-9 </td>
     <td>C1</td>
   </tr>
@@ -831,6 +916,38 @@
     <td>C1</td>
   </tr>
   <tr>
+    <td>Gazi Mustafa Kemal ATATÜRK</td>
+    <td>İlber Ortaylı</td>
+    <td>Tarih</td>
+    <td>Kronik</td>
+    <td>978-975-2430-29-7 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Zamanın kısa tarihi</td>
+    <td>Stephen Hawking</td>
+    <td>İlim</td>
+    <td>Alfa bilim</td>
+    <td>978-605-106-758-2 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Nikola Tesla nın sıra dışı hayatı</td>
+    <td>Nikola Tesla</td>
+    <td>İlim</td>
+    <td>Martı</td>
+    <td> 978-605-186-559-1</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Savaş sanatı</td>
+    <td>Sun Zi</td>
+    <td>-</td>
+    <td>İş bankası- Kültür yayınları</td>
+    <td>978-6056-332-269-6 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
     <td></td>
     <td></td>
     <td></td>
