@@ -448,9 +448,33 @@
    <tr>
     <td>Lettre au père</td>
     <td>Franz Kafka</td>
-    <td>Folio (2€)</td>
     <td>Non-fiction</td>
+    <td>Folio (2€)</td>
     <td> 978-2-07-042206-7</td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Emma</td>
+    <td>Jane Austen</td>
+    <td>Roman</td>
+    <td>Milad Romance</td>
+    <td>978-2-8112-1475-3 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Les Hauts de Hurle-Vent</td>
+    <td>Emily Brontë</td>
+    <td>Roman / horruer <br/> fiction gothique</td>
+    <td>Le livre de poche - classique</td>
+    <td>978-2-253-00475-2 </td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
     <td></td>
   </tr>
 </table>
@@ -475,7 +499,7 @@
     <td>Fiction</td>
     <td>中国 </td>
     <td> Folio (2€)</td>
-    <td> </td> 
+    <td>978-2-07-042208-1 </td> 
     <td > C1</td>
   </tr>
   
@@ -518,7 +542,7 @@
     <td>Chine, retines ton souffle</td>
     <td>Policier</td>
     <td>中国</td>
-    <td></td>
+    <td>Points / Éditions Liana Levi</td>
     <td> </td>
     <td>C1</td>
   </tr>
