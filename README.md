@@ -357,6 +357,38 @@
     <td> 978-2-290-37419-1 </td>
     <td>C1</td>
   </tr>
+   <tr>
+    <td>Fables (Livres VII à XI)</td>
+    <td>Jean de La Fontaine</td>
+    <td>Fable</td>
+    <td>Folio+ (Lycée)</td>
+    <td>978-2-07-285893-2 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>La Mare au Diable</td>
+    <td>George Sand</td>
+    <td>Roman</td>
+    <td>Le livre de poche</td>
+    <td> 978-2-253-00709-8</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>Pauline</td>
+    <td>George Sand</td>
+    <td>Roman / Fiction</td>
+    <td>Folio (3€)</td>
+    <td>978-2-07-301355-2 </td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
 </table>
 
 
@@ -532,6 +564,14 @@
     <td>Sur les chats</td>
     <td>Larousse</td>
     <td> 978-2-03-5879330-1</td>
+    <td>C1</td>
+  </tr>
+   <tr>
+    <td>5 Histoires extraordinaires!<!--UPE2A- collège Maurice Becanne- M<sub>me</sub> Alquier--></td>
+    <td>co-</td>
+    <td>nouvelles</td>
+    <td><i> <b>Réparer le language</b> je peux </i> </td>
+    <td>978-2-494941-00-7 </td>
     <td>C1</td>
   </tr>
   
