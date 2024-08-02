@@ -1,6 +1,17 @@
 
 <html>
  <meta charset="utf-8">
+ <head><style>
+ #para1 {
+	 text-align: center;
+	 color: red
+}
+ 
+ </style>
+ </head>
+ <body>
+   <h1 id="para1"> LIVRES en français 法语书籍 </h1>
+ </body>
 <table>
   <h1 > LIVRES en français 法语书籍 </h1>
   <tr>
