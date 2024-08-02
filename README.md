@@ -2,7 +2,9 @@
 <html>
  <meta charset="utf-8">
 <table>
+ <body>
   <h1 style="color:red;"> LIVRES en français 法语书籍 </h1>
+</body>
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
