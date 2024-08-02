@@ -1,5 +1,6 @@
-<!DOCTYPE html>
+
 <html>
+ <meta charset="utf-8">
 <table>
   <h1> LIVRES en français 法语书籍 </h1>
   <tr>
@@ -11,7 +12,7 @@
     <th> Placement </th>
   </tr>
   <tr>
-    <td>Idée d une Histoire universelle au point de vue cosmopolitique </td>
+    <td>Idée d'une Histoire universelle au point de vue cosmopolitique </td>
     <td>Emmanuel KANT</td>
     <td>Filosofia</td>
     <td> Bordas </td>
