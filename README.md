@@ -2,9 +2,7 @@
 <html>
  <meta charset="utf-8">
 <table>
- <body>
-  <h1 style="color:red;"> LIVRES en français 法语书籍 </h1>
-</body>
+  <h1 > LIVRES en français 法语书籍 </h1>
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
@@ -33,7 +31,7 @@
     <td>La ligne verte</td>
     <td>Stephen KING</td>
     <td> - </td>
-    <td> J ai lu </td>
+    <td> J'ai lu </td>
     <td> 2-290-30186-8 </td>
     <td> C2 </td>
   </tr>
