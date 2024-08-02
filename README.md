@@ -13,7 +13,7 @@
    <h1 id="para1"> LIVRES en français 法语书籍 </h1>
  </body>
 <table>
-  <h1 > LIVRES en français 法语书籍 </h1>
+
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
