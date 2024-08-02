@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <table>
   <h1> LIVRES en français 法语书籍 </h1>
   <tr>
@@ -1110,3 +1112,5 @@
 
 
  <h4> Fait par Ali Can <h4>
+
+ </html>
