@@ -1,6 +1,24 @@
 
 <html>
  <meta charset="utf-8">
+ 
+<style>
+span[pop] {
+    cursor: help;
+    font-weight: bold;
+}
+
+*[pop-def] {
+    cursor: help;
+    font-weight: bold;
+    color : #0D6EFD;
+}
+
+*[id$="tippy"] {
+    display:none;
+}
+
+</style>
  <head><style>
  #para1 {
 	 text-align: center;
