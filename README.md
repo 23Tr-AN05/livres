@@ -1164,11 +1164,13 @@
     <td>798-2-07</td>
     <td> C1</td>
 </tr>
+</table>
 
 
 
 
- <head><style>
+ <head>
+ <style>
  #para3 {
 	 text-align: center;
 	 color: pink 
