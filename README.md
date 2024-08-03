@@ -442,6 +442,14 @@
     <td>978-2-0813-4786-1 </td>
     <td>C1</td>
   </tr>
+  <tr>
+    <td>Thérèse Raquin</td>
+    <td>Émile Zola</td>
+    <td>Roman</td>
+    <td>Larousse</td>
+    <td> 978-2-03-583925-1</td>
+    <td>Can-y</td>
+  </tr>
    <tr>
     <td>Les Mystres d Udolphe</td>
     <td>Ann Radcliffe</td>
@@ -555,13 +563,30 @@
     <td>C1</td>
   </tr>
    <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Écrire et combattre pour l'égalité(2021-2025)">Déclaration des droits de la femme et de la citoyenne</span>.</td>
+    <td rowspan="2">Olympe de Gouges </td>
+    <td>Littérature d'Idées</td>
+    <td>Hatier</td>
+    <td> 978-2-401-07847-5</td>
+    <td>Can-y</td>
   </tr>
+  <tr>
+    <td>Déclaration des droits de la femme et de la citoyenne</td>
+    <td>Littérature d'Idées</td>
+    <td>Folio (2€)</td>
+    <td>978-2-07-145742-7 </td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Écrire et combattre pour l'égalité(2023-2027)">Cahier de Douai</span></td>
+    <td>Arthur Rimbaud</td>
+    <td>Folio + (lycée)</td>
+    <td>Poésie</td>
+    <td> 978-2-07-3000927-2</td>
+    <td>H-T</td>
+  </tr>
+
+
 </table>
 
 
