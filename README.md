@@ -19,6 +19,102 @@ span[pop] {
 }
 
 </style>
+</style>
+
+<script text="javascript">
+
+function fermer_tippy(id) {$(`#${id}`).click();}
+
+function modifier_pop(id, pop) {modifier_tippy(id, pop);}
+function modifier_tippy(id, html) {
+    let element = document.getElementById(id);
+    if (element) {document.getElementById(id)._tippy.setContent(html);}
+    else {console.log(`modifier_tippy() : Element d'id : ${id} introuvable.")`)}
+}
+function ajouter_tippy(id, html) {
+    let tip = document.getElementById(id)._tippy;
+    tip.setContent(tip.popper.innerText+html);}
+function afficher_tippy(id) {document.getElementById(id)._tippy.show();}
+
+function supprimer_tippys(id) {
+    let element = document.getElementById(id);
+    const pops = element.querySelectorAll("*[pop]");
+    pops.forEach((el) => {if (el._tippy) {tippy(el).destroy()}});
+    const defs = element.querySelectorAll("*[pop-def]");
+    pops.forEach((el) => {if (!el._tippy) {tippy(el).destroy()}});
+    const tippys = element.querySelectorAll("*[tippy]");
+    tippys.forEach((el) => {if (!el._tippy) {tippy(el).destroy()}});
+}
+
+function creer_tippys(id=false) {
+    var element = id ? document.getElementById(id) : document
+
+    // Crée les popovers de toutes les balises ayant un attribut "pop" (infobulles)
+    const pops = document.querySelectorAll("*[pop]");
+    pops.forEach((el) => {
+        if (!el._tippy) {
+            tippy(el, {
+                content(reference) {return reference.getAttribute('pop');},
+                animation: 'shift-away-subtle',
+                allowHTML: true,
+            });
+        }
+    });
+    const defs = document.querySelectorAll("*[pop-def]");
+    defs.forEach((el) => {
+        if (!el._tippy) {
+            tippy(el, {
+                content(reference) {return reference.getAttribute('pop-def');},
+                animation: 'shift-away-subtle',
+                allowHTML: true,
+            });
+        }
+    });
+
+    // Crée les popovers de toutes les balises ayant un attribut "tippy"
+    // avec le contenu de l'élément <div id="x-tippy">
+    const tippys = document.querySelectorAll("*[tippy]");
+    tippys.forEach((el) => {
+        if (!el._tippy) {
+            let type = el.getAttribute('tippy');
+            if (type == "pop") {
+                tippy(el, {
+                    content(reference) {
+                        let id = el.getAttribute('id');
+                        let id_tippy = el.getAttribute('tippy-id');
+                        let tip = id_tippy ? document.getElementById(id_tippy) : document.getElementById(id+"-tippy");                     
+                        tip.remove()
+                        return tip.innerHTML;
+                    },
+                    allowHTML: true,
+                    interactive: true,
+                    onShown: creer_tippys,
+                    animation: 'shift-away-subtle'
+                });
+            } else if (type == "menu") {
+                tippy(el, {
+                    content(reference) {
+                        let id = el.getAttribute('id');
+                        let id_tippy = el.getAttribute('tippy-id');
+                        let tip = id_tippy ? document.getElementById(id_tippy) : document.getElementById(id+"-tippy"); 
+                        tip.remove()
+                        return tip.innerHTML;
+                    },
+                    allowHTML: true,
+                    interactive: true,
+                    trigger: "mouseenter",
+                    animation: 'shift-away-subtle',
+                    onShown: creer_tippys
+                });
+            }
+        }
+    });
+}
+
+// creer_tippys()   // Appelé dans le footer quand toute la page est générée.
+
+</script>
+
  <head><style>
  #para1 {
 	 text-align: center;
