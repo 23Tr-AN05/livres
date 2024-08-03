@@ -1160,7 +1160,7 @@
 <tr>
     <td>Küçük Prens</td>
     <td>Türkçe<br/>turc</td>
-    <td></td>
+    <td><a href="show_langue.php?lang=fr&id=168">vietnamien&nbsp;<em>&nbsp;</em></a></td>
     <td>798-2-07</td>
     <td> c1</td>
 </tr>
