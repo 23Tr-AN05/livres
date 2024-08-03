@@ -1150,6 +1150,22 @@
     <td> 2-07-040850-7 </td> 
     <td > C1</td>
   </tr>
+  <tr>
+    <td>小王子</td>
+    <td>中国</td>
+    <td>果麦</td>
+    <td>978-7-201-07764-2 </td>
+    <td> c1</td>
+</tr>
+<tr>
+    <td>Küçük Prens</td>
+    <td>Türkçe<br/>turc</td>
+    <td></td>
+    <td>798-2-07</td>
+    <td> c1</td>
+</tr>
+
+
 </table>
 
  <h4> Fait par Ali Can <h4>
