@@ -1122,7 +1122,7 @@
  
 </table>
 
-<meta charset="utf-8">
+
  <head><style>
  #para2 {
 	 text-align: center;
@@ -1164,7 +1164,10 @@
     <td>798-2-07</td>
     <td> C1</td>
 </tr>
-<meta charset="utf-8">
+
+
+
+
  <head><style>
  #para3 {
 	 text-align: center;
