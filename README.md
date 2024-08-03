@@ -548,6 +548,14 @@
     <td>C1</td>
   </tr>
    <tr>
+    <td>Lady Susan</td>
+    <td>Jane Austen</td>
+    <td>Nouvelle</td>
+    <td>Folio (2€)</td>
+    <td>978-2-07-033756-9 </td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
     <td>Manuel D exil <br/> comment réussir son exil en trente-cinq leçons</td>
     <td>Velibor Čolić</td>
     <td>-</td>
@@ -564,7 +572,7 @@
     <td>C1</td>
   </tr>
    <tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Écrire et combattre pour l'égalité(2021-2025)">Déclaration des droits de la femme et de la citoyenne</span>.</td>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Écrire et combattre pour l'égalité' (2021-2025)">Déclaration des droits de la femme et de la citoyenne</span>.</td>
     <td rowspan="2">Olympe de Gouges </td>
     <td>Littérature d'Idées</td>
     <td>Hatier</td>
@@ -579,13 +587,88 @@
     <td>Can-y</td>
   </tr>
    <tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Écrire et combattre pour l'égalité(2023-2027)">Cahier de Douai</span></td>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Émancipations créatrices'(2023-2027)">Cahier de Douai</span></td>
     <td>Arthur Rimbaud</td>
     <td>Folio + (lycée)</td>
     <td>Poésie</td>
     <td> 978-2-07-3000927-2</td>
     <td>H-T</td>
   </tr>
+   <tr>
+    <td>Les fleurs du mal</td>
+    <td>Charles Baudelaire</td>
+    <td>Poésie</td>
+    <td>Hatier</td>
+    <td>978-2-401-06360-0 </td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td>Cyrano de Bergerac</td>
+    <td>Edmond Rostand</td>
+    <td>Théâtre</td>
+    <td>Pocket-Clasique </td>
+    <td>978-2-26-629553 </td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td>Incendies<sup> Le sang es promesses/2</sup></td>
+    <td>Wajdi Mouawad</td>
+    <td>Théâtre</td>
+    <td>Babel</td>
+    <td>978-2-7427-9312-9 </td>
+    <td>Can-y</td>
+  </tr>
+
+   <tr>
+    <td>Le mariqge de Figaro</td>
+    <td>Beaumarchais</td>
+    <td>Théâtre</td>
+    <td>Flammarion-Étonnant classiques</td>
+    <td> 978-2-0812-9394-6</td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td>Le bal des foles</td>
+    <td>Victoria Mas</td>
+    <td>Roman</td>
+    <td>Le livre de poche</td>
+    <td>978-2-253-10362-2 </td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td>Stupeur et tremblements</td>
+    <td>Améle Nothomb</td>
+    <td>Autobiographie</td>
+    <td>Le livre de poche</td>
+    <td>2-253-15071-1 </td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td>Antigone</td>
+    <td>Jean Anouilh</td>
+    <td>Théâtre</td>
+    <td>La table ronde</td>
+    <td>2-7103-0025-7 </td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td>La mille et deuxième nuit</td>
+    <td>Théophile Gautier</td>
+    <td>Nouvelles</td>
+    <td>Folio (2€)</td>
+    <td>978-2-07-046934-5 </td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+  </tr>
+
+
 
 
 </table>
@@ -811,6 +894,22 @@
     <td>Pocket jeunesse - PKJ </td>
     <td>978-2-26-29390-7</td>
     <td>C</td>
+  </tr>
+   <tr>
+    <td>Bjorn le Morphir </td>
+    <td>Thomas Lavachery</td>
+    <td>Fantastique</td>
+    <td>Médium poche<br>L'École des loisir </td>
+    <td>978-2-211-23372-9</td>
+    <td>Can-y</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
   </tr>
   
   <tr>
