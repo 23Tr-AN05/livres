@@ -1122,6 +1122,35 @@
  
 </table>
 
+<meta charset="utf-8">
+ <head><style>
+ #para2 {
+	 text-align: center;
+	 color: orange
+}
+ 
+ </style>
+ </head>
+ <body>
+   <h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1>
+ </body>
+<table>
+
+  <tr>
+    <th>Titre</th>
+    <th>Langue</th>
+    <th>édition</th>
+    <th> ISBN </th>
+    <th> Placement </th>
+  </tr>
+  <tr>
+    <td>Le Petit Prince </td>
+    <td>Français</td>
+    <td> Folio</td>
+    <td> 2-07-040850-7 </td> 
+    <td > C1</td>
+  </tr>
+</table>
 
  <h4> Fait par Ali Can <h4>
 
