@@ -2,6 +2,67 @@
 <html>
  <meta charset="utf-8">
  
+<!-- Lien interne -->
+<link href="assets/index/soleil_bleu_64px.png" rel="icon" type="image/png" sizes="16x16" />
+<link href="styles/style.css" rel="stylesheet" type="text/css" />
+<link href="styles/print.css" rel="stylesheet" type="text/css" media="print" />
+
+<!-- Lien externe -->
+<link rel="stylesheet" href="modules/prism/prism.css" type="text/css"/>
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="">
+<meta property="og:site_name" content="Chocolatine - Lycée Déodat de Séverac">
+<meta property="og:description" content="Site de cours et de tests développé au lycée Déodat de Séverac de Toulouse." />
+<!-- <meta property="og:image" content="https://raisintine.fr/chocolatine//soleil_bleu.gif"> -->
+
+<!-- Module externe -->
+
+<!-- CSS module bootstrap.html -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" 
+integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    
+<!-- Javascript module bootstrap.html -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" 
+integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    
+<!-- Module mathjax.html -->
+<!-- Gestion des formules écrites en Latex -->
+
+<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> -->
+ 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
+<script>
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$']],  // Délimiteurs pour les formules en ligne
+        displayMath: [['$$', '$$']]  // Délimiteurs pour les formules affichées
+      }
+    });
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub]); // Pour forcer le rendu initial des équations
+
+</script>
+
+
+<!-- Gestion des formules écrites en AsciiMath -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=AM_CHTML"></script><!-- Voir la documentation : https://atomiks.github.io/tippyjs -->
+
+<!-- Exemples d'utilisation -->
+<!-- <span pop="hello">pop</span>
+ 
+<button id="button1" class="btn btn-outline-primary" data-tippy-placement='bottom' data-tippy-delay="[500, null]" tippy="pop">Text</button>
+<div id="button1-tippy"> Salut <strong>Bob</strong> !</div>
+
+<button id="button2" class="btn btn-outline-primary" tippy="menu">Menu</button>
+<div id="button2-tippy"> Salut <strong>Bob</strong> !
+    <button class="btn btn-outline-danger" onclick="fermer_tippy('button2');">fermer</button></div> -->
+
+
+<script src="https://unpkg.com/@popperjs/core@2"></script> <!-- https://unpkg.com/@popperjs/core@2 -->
+<script src="https://unpkg.com/tippy.js@6"></script> <!-- https://unpkg.com/tippy.js@6 -->
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/shift-away-subtle.css"/> <!-- https://unpkg.com/tippy.js@6/animations/shift-away-subtle.css -->
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css"/> <!-- https://unpkg.com/tippy.js@6/themes/light-border.css -->
 <style>
 span[pop] {
     cursor: help;
