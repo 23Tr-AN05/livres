@@ -114,6 +114,29 @@ function creer_tippys(id=false) {
 // creer_tippys()   // Appelé dans le footer quand toute la page est générée.
 
 </script>
+<style>
+
+.suggestions-menu {
+    color:white;
+    background-color: #333333;
+    z-index: 9999;
+}
+
+/* Menu de suggestion sous input text */
+ul.suggestions-menu {
+    position:fixed;
+    margin-top:2px;
+    padding:5px;
+    z-index: 9999;
+    border: 1px solid #CCC;
+    box-shadow: 0px 1px 10px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    list-style:none;
+}
+ul.suggestions-menu li {position: relative; cursor: pointer;}
+ul.suggestions-menu li:hover {font-weight:bold;}
+
+</style>
 
  <head><style>
  #para1 {
