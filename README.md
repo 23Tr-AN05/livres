@@ -1228,7 +1228,7 @@
  </body>
  <table>
    <tr>
-   <th><h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1></th>
+   <th colspan="5"><h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1></th>
    </tr>
    <tr>
     <th>Titre</th>
