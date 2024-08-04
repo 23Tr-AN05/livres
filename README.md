@@ -18,8 +18,8 @@
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
-    <th>genre</th>
-    <th>édition</th>
+    <th>Genre</th>
+    <th>Édition</th>
     <th> ISBN </th>
     <th> Placement </th>
   </tr>
@@ -572,7 +572,7 @@
     <td>C1</td>
   </tr>
    <tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Écrire et combattre pour l'égalité' (2021-2025)">Déclaration des droits de la femme et de la citoyenne</span>.</td>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Écrire et combattre pour l'égalité' (2021-2025)">Déclaration des droits de la femme et de la citoyenne</span></td>
     <td rowspan="2">Olympe de Gouges </td>
     <td>Littérature d'Idées</td>
     <td>Hatier</td>
@@ -681,9 +681,9 @@
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
-    <th>genre</th>
+    <th>Genre</th>
     <th>Pays </th>
-    <th>édition</th>
+    <th>Édition</th>
     <th> ISBN </th>
     <th> Placement </th>
   </tr>
@@ -750,7 +750,7 @@
     <td>C1</td>
   </tr>
    <tr>
-    <td>L Évangile selon Yong Sheng </td>
+    <td>L'Évangile selon Yong Sheng </td>
     <td>Fiction</td>
     <td> 中国</td>
     <td>Folio</td>
@@ -830,8 +830,8 @@
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
-    <th>genre</th>
-    <th>édition</th>
+    <th>Genre</th>
+    <th>Édition</th>
     <th> ISBN </th>
     <th> Placement </th>
   </tr>
@@ -937,8 +937,8 @@
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
-    <th>genre</th>
-    <th>édition</th>
+    <th>Genre</th>
+    <th>Édition</th>
     <th> ISBN </th>
     <th> Placement </th>
   </tr>
@@ -1006,8 +1006,8 @@
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
-    <th>genre</th>
-    <th>édition</th>
+    <th>Genre</th>
+    <th>Édition</th>
     <th> ISBN </th>
     <th> Placement </th>
   </tr>
@@ -1193,8 +1193,8 @@
     <th>Titre</th>
     <th>Auteur</th>
     <th> Langue </th>
-    <th>genre</th>
-    <th>édition</th>
+    <th>Genre</th>
+    <th>Édition</th>
     <th> ISBN </th>
     <th> Placement </th>
   </tr>
@@ -1264,7 +1264,7 @@
   <tr>
     <th>Titre</th>
     <th>Langue</th>
-    <th>édition</th>
+    <th>Édition</th>
     <th> ISBN </th>
     <th> Placement </th>
   </tr>
@@ -1312,7 +1312,7 @@
     <th>Titre</th>
     <th>Auteur</th>
     <th>Matière</th>
-    <th>édition</th>
+    <th>Édition</th>
     <th> ISBN </th>
     <th> Placement </th>
   </tr>
@@ -1366,16 +1366,86 @@
   <tr>
     <th>Titre</th>
     <th>Auteur</th>
-    <th>Matière</th>
-    <th>édition</th>
+    <th>Genre <br>Matière</th>
+    <th>Édition<br> <sup>Si donné<sup></th>
     <th> ISBN <br> <sup>Si donné<sup></th>
   </tr>
   <tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'<b>Défendre</b> et <b>entretenir</b> la liberté' (2025-2026)">Discours de la servitude volontaire</span></td>
+    <td>Étienne de La Boétie</td>
+    <td rowspan="3">Littérature d'idées <br>Français</td>
+    <td>-</td>
+    <td> -</td>
+  </tr>
+  <tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Le goût de la science' (2025-2026)">Entretiens sur la pluralité des mondes</span></td>
+    <td>Bernard Le Bouyer de Fontenelle</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td> </td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
