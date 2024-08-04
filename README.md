@@ -1293,7 +1293,6 @@
 
 
 
-
  <head>
  <style>
  #para3 {
@@ -1341,113 +1340,21 @@
     <td> C1-T</td>
 </tr>
 
-
-</table>
-
- <head>
- <style>
- #para4 {
-	 text-align: center;
-	 color:  #FF55FF 
-}
- </style>
- </head>
- <body>
-   <h1 id="para4"> 书籍 购买</h1>
- </body>
-<table>
-
-  <tr>
-    <th>Titre</th>
-    <th>Auteur</th>
-    <th>Genre <br>Matière</th>
-    <th>Édition<br> <sup>Si donné<sup></th>
-    <th> ISBN <br> <sup>Si donné<sup></th>
-  </tr>
-  <tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'<b>Défendre</b> et <b>entretenir</b> la liberté' (2025-2026)">Discours de la servitude volontaire</span></td>
-    <td>Étienne de La Boétie</td>
-    <td rowspan="3">Littérature d'idées <br>Français</td>
-    <td>-</td>
-    <td> -</td>
-  </tr>
-  <tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Le goût de la science' (2025-2026)">Entretiens sur la pluralité des mondes</span></td>
-    <td>Bernard Le Bouyer de Fontenelle</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'' (2025-2026)"></span></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
- 
 </table>
 
 
+<head><style>
+  #para4{
+    text-align:center;
+    color: #FF55FF
+  }
 
+
+</style>
+</head>
+<body>
+     <h1 id="para4">要购买的书籍</h1>
+</body>
 
 
  <h4> Fait par Ali Can <h4>
