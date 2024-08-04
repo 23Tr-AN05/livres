@@ -1367,7 +1367,7 @@
    <tr>
      <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'<b>Défendre</b> et <b> entretenir</b> la liberté'(2025-2026)"> Discours de la servitude volontaire </span></td>
      <td> Étienne de La Boétie </td>
-     <td rowspan="3"> <em>La Littérature d'idées du <br> XVIe siècle au XVIIIe siècle<em><br> Français </td>
+     <td rowspan="3"> <em>La Littérature d'idées<br> du XVIe siècle au XVIIIe siècle</em><br> Français </td>
      <td>-</td>
      <td>-</td>
    </tr>
