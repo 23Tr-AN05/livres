@@ -1291,32 +1291,6 @@
 </tr>
 </table>
 
-<head><style>
-  #para4{
-    text-align:center;
-    color: #FF55FF
-  }
-</style>
-</head>
-<body>
-     <h1 id="para4">要购买的书籍</h1>
-</body>
-<table>
-  <tr>
-    <th> Titre </th>
-    <th> Auteur </th>
-    <th>Genre <br>Matière</th>
-    <th> Édition <br><sup>Si précisée</sup></th>
-    <th>ISBN <br><sup>Si précisé / donné </sup></th>
-  </tr>
-  <tr>
-    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'<b>Défendre</b> et <b> entretenir</b> la liberté'(2025-2026)"> Discours de la servitude volontaire </span></td>
-    <td> Étienne de La Boétie </td>
-    <td rowspan="3"> <em>La Littérature d'idées du <br> XVIe siècle au XVIIIe siècle<em><br> Français </td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-</table>
 
 
  <head>
@@ -1356,17 +1330,46 @@
     <td>Folio-Classique</td>
     <td>978-2-07-037364-2 </td>
     <td> C1-T</td>
-</tr>
-<tr>
+ </tr>
+ <tr>
     <td>Traité théologico-politique<br> <sup>Préface et Chapîtres XVI à XX </sup></td>
     <td>Baruch Spinoza</td>
     <td>Français-Filosofia</td>
     <td>GF Flammarion</td>
     <td>798-2-0804-4809-5</td>
     <td> C1-T</td>
-</tr>
-
+  </tr>
 </table>
+
+
+<head><style>
+  #para4{
+    text-align:center;
+    color: #FF55FF
+  }
+</style>
+</head>
+<body>
+     <h1 id="para4">要购买的书籍</h1>
+</body>
+<table>
+  <tr>
+    <th> Titre </th>
+    <th> Auteur </th>
+    <th>Genre <br>Matière</th>
+    <th> Édition <br><sup>Si précisée</sup></th>
+    <th>ISBN <br><sup>Si précisé / donné </sup></th>
+  </tr>
+  <tr>
+    <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'<b>Défendre</b> et <b> entretenir</b> la liberté'(2025-2026)"> Discours de la servitude volontaire </span></td>
+    <td> Étienne de La Boétie </td>
+    <td rowspan="3"> <em>La Littérature d'idées du <br> XVIe siècle au XVIIIe siècle<em><br> Français </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
+
+
 
 
 
