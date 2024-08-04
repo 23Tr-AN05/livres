@@ -1344,6 +1344,45 @@
 
 </table>
 
+
+
+
+
+
+ <head>
+ <style>
+ #para4 {
+	 text-align: center;
+	 color:  #333333  
+}
+ 
+ </style>
+ </head>
+ <body>
+   <h1 id="para4"> 书籍 购买</h1>
+ </body>
+<table>
+
+  <tr>
+    <th>Titre</th>
+    <th>Auteur</th>
+    <th>Matière</th>
+    <th>édition</th>
+    <th> ISBN </th>
+    <th> Placement </th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+    <td></td>
+  </tr>
+ 
+</table>
+
  <h4> Fait par Ali Can <h4>
 
  </html>
