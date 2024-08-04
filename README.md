@@ -1368,8 +1368,7 @@
     <th>Auteur</th>
     <th>Matière</th>
     <th>édition</th>
-    <th> ISBN </th>
-    <th> Placement </th>
+    <th> ISBN <br> <sup>Si donné<sup></th>
   </tr>
   <tr>
     <td></td>
