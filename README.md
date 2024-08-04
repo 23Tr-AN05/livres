@@ -1344,18 +1344,12 @@
 
 </table>
 
-
-
-
-
-
  <head>
  <style>
  #para4 {
 	 text-align: center;
 	 color:  #FF55FF 
 }
- 
  </style>
  </head>
  <body>
@@ -1451,6 +1445,10 @@
   </tr>
  
 </table>
+
+
+
+
 
  <h4> Fait par Ali Can <h4>
 
