@@ -1312,15 +1312,14 @@
 
 
  <head><style>
-  #para4{
+   #para4{
     text-align:center;
     color: #FF55FF
    }
- </style> </head>
- <body>
-     <h1 id="para4">要购买的书籍</h1>
- </body>
+ </style></head>
+
  <table>
+  <h1 id="para4">要购买的书籍</h1>
    <tr>
      <th> Titre </th>
      <th> Auteur </th>
