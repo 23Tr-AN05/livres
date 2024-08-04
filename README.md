@@ -1388,7 +1388,7 @@
      <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Personnages en marge, plaisirs du romanesque'(2025-2026)">Manon Lescaut</span></td>
      <td>Abbé Prévost</td>
      <td rowspan="3"><em>Le Roman et Le récit <br> Du Moyen Âge au XXIe siècle</em><br>Français </td>
-     <td>-</td>
+     <td>买了</td>
      <td>-</td>
     </tr>
     <tr>
