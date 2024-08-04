@@ -1353,7 +1353,7 @@
  <style>
  #para4 {
 	 text-align: center;
-	 color:  #333333  
+	 color:  #FF55FF 
 }
  
  </style>
