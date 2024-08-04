@@ -1341,65 +1341,65 @@
      <td>-</td>
     </tr>
     <tr>
-     <td> <span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est''(2025-2026)"> Lettres d'une Péruvienne</span></td>
+     <td> <span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Un nouveau univers s'est offert à mes yeux'(2025-2026)"> Lettres d'une Péruvienne</span></td>
      <td>Françoise de Graffigny</td>
      <td>-</td>
      <td>-</td>
     </tr>
     <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
-     <td rowspan="3"> </td>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Mensonge et comédie'(2025-2026)">Le menteur</span></td>
+     <td>Pierre Corneille</td>
+     <td rowspan="3"><em>Le Théâtre <br> du XVIIe siècle au XXIe siècle </em><br>Français </td>
      <td>-</td>
      <td>-</td>
     </tr>
     <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Les jeux du cœur et de la parole'(2025-2026)">On ne badine pas avec l'amour</span></td>
+     <td>Alfred de Musset</td>
      <td>-</td>
      <td>-</td>
     </tr>
     <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Théâtre et dispute'(2025-2026)">Pour un oui ou pour un non</span></td>
+     <td>Nathalie Sarraute</td>
      <td>-</td>
      <td>-</td>
     </tr>
     <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
-     <td rowspan="3"> </td>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Émancipations créatrices'(2025-2026)">Cahier de Douai</span></td>
+     <td>Rimbaud</td>
+     <td rowspan="3"><em>La Poésie <br> du XIXe siècle au XXIe siècle</em><br>Français </td>
+     <td>买了</td>
+     <td>-</td>
+    </tr>
+    <tr>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Dans l'atelier du poète'(2025-2026)">La rage de l'expression</span></td>
+     <td>Ponge</td>
      <td>-</td>
      <td>-</td>
     </tr>
     <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'La poésie, la nature, l'intime'(2025-2026)">Mes forêts</span></td>
+     <td>Hélène Dorion</td>
      <td>-</td>
      <td>-</td>
     </tr>
     <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Personnages en marge, plaisirs du romanesque'(2025-2026)">Manon Lescaut</span></td>
+     <td>Abbé Prévost</td>
+     <td rowspan="3"><em>Le Roman et Le récit <br> Du Moyen Âge au XXIe siècle</em><br>Français </td>
      <td>-</td>
      <td>-</td>
     </tr>
     <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
-     <td rowspan="3"> </td>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'Création et destruction'(2025-2026)">La Peau de chagrin</span></td>
+     <td>Balzac</td>
      <td>-</td>
      <td>-</td>
     </tr>
     <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
-     <td>-</td>
-     <td>-</td>
-    </tr>
-    <tr>
-     <td><span pop-def=""></span></td>
-     <td></td>
+     <td><span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est'La célébration du monde'(2025-2026)">Sido suivi de Les Vrilles de la vigne</span></td>
+     <td>Colette</td>
      <td>-</td>
      <td>-</td>
     </tr>
