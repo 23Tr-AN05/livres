@@ -3,11 +3,31 @@
  <meta charset="utf-8">
 
  <head><style>
-  #para1 {
-	 text-align: center;
-	 color: red
-  }
+   #para1 {
+	   text-align: center;
+	   color: red
+   }
  </style> </head>
+ <head><style>
+  #para2 {
+	   text-align: center;
+	   color: orange
+   }
+ </style> </head>
+ <head> <style>
+   #para3 {
+	   text-align: center;
+	   color: pink 
+   }
+ </style> </head>
+ 
+ <head><style>
+   #para4{
+     text-align:center;
+     color: #FF55FF
+   }
+ </style></head>
+
  <body>
    <h1 id="para1"> LIVRES en français 法语书籍 </h1>
  </body>
@@ -1212,111 +1232,89 @@
  </table>
 
 
+ <hr>
 
 
-
- <head><style>
- #para2 {
-	 text-align: center;
-	 color: orange
-}
- 
- </style>
- </head>
  <body>
    <h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1>
  </body>
- <table>
+  <table>
    <tr>
-   <th colspan="5"><h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1></th>
+    <th colspan="5"><h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1></th>
    </tr>
    <tr>
-    <th>Titre</th>
-    <th>Langue</th>
-    <th>Édition</th>
-    <th> ISBN </th>
-    <th> Placement </th>
-  </tr>
-  <tr>
-    <td>Le Petit Prince </td>
-    <td>Français</td>
-    <td> Folio</td>
-    <td> 2-07-040850-7 </td> 
-    <td > C1</td>
-  </tr>
-  <tr>
-    <td>小王子</td>
-    <td>中国</td>
-    <td>果麦</td>
-    <td>978-7-201-07764-2 </td>
-    <td> C1</td>
-  </tr>
-  <tr>
-    <td>Küçük Prens</td>
-    <td>Türkçe<br/>turc</td>
-    <td></td>
-    <td>798-2-07</td>
-    <td> C1</td>
-  </tr>
-</table>
+     <th>Titre</th>
+     <th>Langue</th>
+     <th>Édition</th>
+     <th> ISBN </th>
+     <th> Placement </th>
+   </tr>
+   <tr>
+     <td>Le Petit Prince </td>
+     <td>Français</td>
+     <td> Folio</td>
+     <td> 2-07-040850-7 </td> 
+     <td > C1</td>
+   </tr>
+   <tr>
+     <td>小王子</td>
+     <td>中国</td>
+     <td>果麦</td>
+     <td>978-7-201-07764-2</td>
+     <td> C1</td>
+   </tr>
+   <tr>
+     <td>Küçük Prens</td>
+     <td>Türkçe<br/>turc</td>
+     <td></td>
+     <td>798-2-07</td>
+     <td> C1</td>
+   </tr>
+ </table>
 
 
-
- <head>
- <style>
- #para3 {
-	 text-align: center;
-	 color: pink 
- }
+ <hr>
  
- </style>
- </head>
+
  <body>
    <h1 id="para3"> CPGE-PCSI-Français-Filosofia-Plus</h1>
  </body>
  <table>
-
-  <tr>
-    <th>Titre</th>
-    <th>Auteur</th>
-    <th>Matière</th>
-    <th>Édition</th>
-    <th> ISBN </th>
-    <th> Placement </th>
-  </tr>
-  <tr>
-    <td>Le temps de l'innocence </td>
-    <td>Wharton</td>
-    <td>Français-Filosofia</td>
-    <td> GF Flammarion</td>
-    <td> 978-2-0804-5158-3</td> 
-    <td > C1-T</td>
-  </tr>
-  <tr>
-    <td>Tragédies complètes</td>
-    <td>Eschyle</td>
-    <td>Français-Filosofia</td>
-    <td>Folio-Classique</td>
-    <td>978-2-07-037364-2 </td>
-    <td> C1-T</td>
- </tr>
- <tr>
-    <td>Traité théologico-politique<br> <sup>Préface et Chapîtres XVI à XX </sup></td>
-    <td>Baruch Spinoza</td>
-    <td>Français-Filosofia</td>
-    <td>GF Flammarion</td>
-    <td>798-2-0804-4809-5</td>
-    <td> C1-T</td>
-  </tr>
+   <tr>
+     <th>Titre</th>
+     <th>Auteur</th>
+     <th>Matière</th>
+     <th>Édition</th>
+     <th> ISBN </th>
+     <th> Placement </th>
+   </tr>
+   <tr>
+     <td>Le temps de l'innocence </td>
+     <td>Wharton</td>
+     <td>Français-Filosofia</td>
+     <td> GF Flammarion</td>
+     <td> 978-2-0804-5158-3</td> 
+     <td > C1-T</td>
+   </tr>
+   <tr>
+     <td>Tragédies complètes</td>
+     <td>Eschyle</td>
+     <td>Français-Filosofia</td>
+     <td>Folio-Classique</td>
+     <td>978-2-07-037364-2 </td>
+     <td> C1-T</td>
+   </tr>
+   <tr>
+     <td>Traité théologico-politique<br> <sup>Préface et Chapîtres XVI à XX </sup></td>
+     <td>Baruch Spinoza</td>
+     <td>Français-Filosofia</td>
+     <td>GF Flammarion</td>
+     <td>798-2-0804-4809-5</td>
+     <td> C1-T</td>
+   </tr>
  </table>
 
 
- <head><style>
-   #para4{
-    text-align:center;
-    color: #FF55FF
-   }
- </style></head>
 
  <table>
   <h1 id="para4">要购买的书籍</h1>
@@ -1356,11 +1354,12 @@
  </table>
 
 
+ <hr>
 
 
  <p>
  <h4> Fait par Ali Can <h4>
-</p>
+ </p>
 
  </html>
 
