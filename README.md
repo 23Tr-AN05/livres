@@ -795,7 +795,7 @@ ul.suggestions-menu li:hover {font-weight:bold;}
      <td>Can-y</td>
    </tr>
    <tr>
-     <td>Incendies<sup> Le sang es promesses/2</sup></td>
+     <td>Incendies<br><sup> Le sang es promesses/2</sup></td>
      <td>Wajdi Mouawad</td>
      <td>Théâtre</td>
      <td>Babel</td>
