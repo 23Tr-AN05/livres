@@ -1381,7 +1381,7 @@
      <td> <span pop-def="Œuvre au programme de BAC de Français en classe de Première dont le parcours associé est''(2025-2026)"> Lettres d'une Péruvienne</sapn></td>
      <td>Françoise de Graffigny</td>
      <td>-</td>
-     </td>-</td>
+     <td>-</td>
     </tr>
     <tr>
      <td><span pop-def=""></span></td>
