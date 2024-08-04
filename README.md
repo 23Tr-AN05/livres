@@ -2,6 +2,201 @@
 <html>
  <meta charset="utf-8">
 
+<!-- Lien interne -->
+<link href="assets/index/soleil_bleu_64px.png" rel="icon" type="image/png" sizes="16x16" />
+<link href="styles/style.css" rel="stylesheet" type="text/css" />
+<link href="styles/print.css" rel="stylesheet" type="text/css" media="print" />
+
+<!-- Lien externe -->
+<link rel="stylesheet" href="modules/prism/prism.css" type="text/css"/>
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="">
+<meta property="og:site_name" content="Chocolatine - Lycée Déodat de Séverac">
+<meta property="og:description" content="Site de cours et de tests développé au lycée Déodat de Séverac de Toulouse." />
+<!-- <meta property="og:image" content="https://raisintine.fr/chocolatine//soleil_bleu.gif"> -->
+
+<!-- Module externe -->
+
+<!-- CSS module bootstrap.html -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" 
+integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    
+<!-- Javascript module bootstrap.html -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" 
+integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    
+<!-- Module mathjax.html -->
+<!-- Gestion des formules écrites en Latex -->
+
+<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> -->
+ 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
+<script>
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$']],  // Délimiteurs pour les formules en ligne
+        displayMath: [['$$', '$$']]  // Délimiteurs pour les formules affichées
+      }
+    });
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub]); // Pour forcer le rendu initial des équations
+
+</script>
+
+
+<!-- Gestion des formules écrites en AsciiMath -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=AM_CHTML"></script><!-- Voir la documentation : https://atomiks.github.io/tippyjs -->
+
+<!-- Exemples d'utilisation -->
+<!-- <span pop="hello">pop</span>
+ 
+<button id="button1" class="btn btn-outline-primary" data-tippy-placement='bottom' data-tippy-delay="[500, null]" tippy="pop">Text</button>
+<div id="button1-tippy"> Salut <strong>Bob</strong> !</div>
+
+<button id="button2" class="btn btn-outline-primary" tippy="menu">Menu</button>
+<div id="button2-tippy"> Salut <strong>Bob</strong> !
+    <button class="btn btn-outline-danger" onclick="fermer_tippy('button2');">fermer</button></div> -->
+
+
+<script src="https://unpkg.com/@popperjs/core@2"></script> <!-- https://unpkg.com/@popperjs/core@2 -->
+<script src="https://unpkg.com/tippy.js@6"></script> <!-- https://unpkg.com/tippy.js@6 -->
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/shift-away-subtle.css"/> <!-- https://unpkg.com/tippy.js@6/animations/shift-away-subtle.css -->
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css"/> <!-- https://unpkg.com/tippy.js@6/themes/light-border.css -->
+
+<style>
+span[pop] {
+    cursor: help;
+    font-weight: bold;
+}
+
+*[pop-def] {
+    cursor: help;
+    font-weight: bold;
+    color : #0D6EFD;
+}
+
+*[id$="tippy"] {
+    display:none;
+}
+
+</style>
+
+<script text="javascript">
+
+function fermer_tippy(id) {$(`#${id}`).click();}
+
+function modifier_pop(id, pop) {modifier_tippy(id, pop);}
+function modifier_tippy(id, html) {
+    let element = document.getElementById(id);
+    if (element) {document.getElementById(id)._tippy.setContent(html);}
+    else {console.log(`modifier_tippy() : Element d'id : ${id} introuvable.")`)}
+}
+function ajouter_tippy(id, html) {
+    let tip = document.getElementById(id)._tippy;
+    tip.setContent(tip.popper.innerText+html);}
+function afficher_tippy(id) {document.getElementById(id)._tippy.show();}
+
+function supprimer_tippys(id) {
+    let element = document.getElementById(id);
+    const pops = element.querySelectorAll("*[pop]");
+    pops.forEach((el) => {if (el._tippy) {tippy(el).destroy()}});
+    const defs = element.querySelectorAll("*[pop-def]");
+    pops.forEach((el) => {if (!el._tippy) {tippy(el).destroy()}});
+    const tippys = element.querySelectorAll("*[tippy]");
+    tippys.forEach((el) => {if (!el._tippy) {tippy(el).destroy()}});
+}
+
+function creer_tippys(id=false) {
+    var element = id ? document.getElementById(id) : document
+
+    // Crée les popovers de toutes les balises ayant un attribut "pop" (infobulles)
+    const pops = document.querySelectorAll("*[pop]");
+    pops.forEach((el) => {
+        if (!el._tippy) {
+            tippy(el, {
+                content(reference) {return reference.getAttribute('pop');},
+                animation: 'shift-away-subtle',
+                allowHTML: true,
+            });
+        }
+    });
+    const defs = document.querySelectorAll("*[pop-def]");
+    defs.forEach((el) => {
+        if (!el._tippy) {
+            tippy(el, {
+                content(reference) {return reference.getAttribute('pop-def');},
+                animation: 'shift-away-subtle',
+                allowHTML: true,
+            });
+        }
+    });
+
+    // Crée les popovers de toutes les balises ayant un attribut "tippy"
+    // avec le contenu de l'élément <div id="x-tippy">
+    const tippys = document.querySelectorAll("*[tippy]");
+    tippys.forEach((el) => {
+        if (!el._tippy) {
+            let type = el.getAttribute('tippy');
+            if (type == "pop") {
+                tippy(el, {
+                    content(reference) {
+                        let id = el.getAttribute('id');
+                        let id_tippy = el.getAttribute('tippy-id');
+                        let tip = id_tippy ? document.getElementById(id_tippy) : document.getElementById(id+"-tippy");                     
+                        tip.remove()
+                        return tip.innerHTML;
+                    },
+                    allowHTML: true,
+                    interactive: true,
+                    onShown: creer_tippys,
+                    animation: 'shift-away-subtle'
+                });
+            } else if (type == "menu") {
+                tippy(el, {
+                    content(reference) {
+                        let id = el.getAttribute('id');
+                        let id_tippy = el.getAttribute('tippy-id');
+                        let tip = id_tippy ? document.getElementById(id_tippy) : document.getElementById(id+"-tippy"); 
+                        tip.remove()
+                        return tip.innerHTML;
+                    },
+                    allowHTML: true,
+                    interactive: true,
+                    trigger: "mouseenter",
+                    animation: 'shift-away-subtle',
+                    onShown: creer_tippys
+                });
+            }
+        }
+    });
+}
+
+// creer_tippys()   // Appelé dans le footer quand toute la page est générée.
+
+</script><style>
+
+.suggestions-menu {
+    color:white;
+    background-color: #333333;
+    z-index: 9999;
+}
+
+/* Menu de suggestion sous input text */
+ul.suggestions-menu {
+    position:fixed;
+    margin-top:2px;
+    padding:5px;
+    z-index: 9999;
+    border: 1px solid #CCC;
+    box-shadow: 0px 1px 10px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    list-style:none;
+}
+ul.suggestions-menu li {position: relative; cursor: pointer;}
+ul.suggestions-menu li:hover {font-weight:bold;}
+
+</style>
  <head><style>
    #para1 {
 	   text-align: center;
