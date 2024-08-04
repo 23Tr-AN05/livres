@@ -6,14 +6,14 @@
  #para1 {
 	 text-align: center;
 	 color: red
-}
+ }
  
  </style>
  </head>
  <body>
    <h1 id="para1"> LIVRES en français 法语书籍 </h1>
  </body>
-<table>
+ <table>
 
   <tr>
     <th>Titre</th>
@@ -667,16 +667,16 @@
     <td> </td>
     <td></td>
   </tr>
+ 
+ 
+
+
+ </table>
 
 
 
 
-</table>
-
-
-
-
-<table>
+ <table>
   <h1> Littérature asiatique </h1>
   <tr>
     <th>Titre</th>
@@ -823,9 +823,9 @@
 
   
  
-</table>
+ </table>
 
-<table>
+ <table>
   <h1> Fantastique & policier  </h1>
   <tr>
     <th>Titre</th>
@@ -929,9 +929,12 @@
     <td></td>
   </tr>
  
-</table>
+ </table>
 
-<table>
+
+
+
+ <table>
  <h1> "Académique" </h1> 
 
   <tr>
@@ -998,9 +1001,9 @@
     <td>C1</td>
   </tr>
  
-</table>
+ </table>
 
-<table>
+ <table>
   <h1> Autres  </h1>
 
   <tr>
@@ -1108,7 +1111,7 @@
     <td></td>
   </tr>
  
-</table>
+ </table>
 
  <table>
   <h1> Türkçe kitaplar 土耳其语书籍 </h1>
@@ -1185,9 +1188,9 @@
     <td></td>
   </tr>
  
-</table>
+ </table>
 
-<table>
+ <table>
   <h1> 外文书籍  </h1>
   <tr>
     <th>Titre</th>
@@ -1245,7 +1248,9 @@
     <td></td>
   </tr>
  
-</table>
+ </table>
+
+
 
 
  <head><style>
@@ -1259,7 +1264,7 @@
  <body>
    <h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1>
  </body>
-<table>
+ <table>
 
   <tr>
     <th>Titre</th>
@@ -1281,14 +1286,14 @@
     <td>果麦</td>
     <td>978-7-201-07764-2 </td>
     <td> C1</td>
-</tr>
-<tr>
+  </tr>
+  <tr>
     <td>Küçük Prens</td>
     <td>Türkçe<br/>turc</td>
     <td></td>
     <td>798-2-07</td>
     <td> C1</td>
-</tr>
+  </tr>
 </table>
 
 
@@ -1298,14 +1303,14 @@
  #para3 {
 	 text-align: center;
 	 color: pink 
-}
+ }
  
  </style>
  </head>
  <body>
    <h1 id="para3"> CPGE-PCSI-Français-Filosofia-Plus</h1>
  </body>
-<table>
+ <table>
 
   <tr>
     <th>Titre</th>
@@ -1339,20 +1344,20 @@
     <td>798-2-0804-4809-5</td>
     <td> C1-T</td>
   </tr>
-</table>
+ </table>
 
 
-<head><style>
+ <head><style>
   #para4{
     text-align:center;
     color: #FF55FF
   }
-</style>
-</head>
-<body>
+ </style>
+ </head>
+ <body>
      <h1 id="para4">要购买的书籍</h1>
-</body>
-<table>
+ </body>
+ <table>
   <tr>
     <th> Titre </th>
     <th> Auteur </th>
@@ -1367,8 +1372,7 @@
     <td>-</td>
     <td>-</td>
   </tr>
-</table>
-
+ </table>
 
 
 
@@ -1377,3 +1381,4 @@
  <h4> Fait par Ali Can <h4>
 
  </html>
+
