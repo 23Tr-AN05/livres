@@ -1428,52 +1428,102 @@
    </tr>
    <tr>
      <td> Atatürk ve Sumerliler (16) </td>
-     <td rowspan="10">Muazzez <br>İlmiye <br> Çığ</td>
-     <td rowspan="10">Histoire Tarih</td>
-     <td rowspan="10"> Kaynak Yayınları </td>
+     <td rowspan="22">Muazzez <br>İlmiye <br> Çığ</td>
+     <td rowspan="22">Histoire Tarih</td>
+     <td rowspan="22"> Kaynak Yayınları </td>
      <td><a href="https://www.kaynakyayinlari.com/ataturk-ve-sumerliler-p362550.html"> 978-6-056-93549-7</a></td> 
    </tr>
    <tr>
-     <td></td>
-     <td></td>
+      <td>11-Atatürk Düşünüyor</td>
+      <td><a href="https://www.kaynakyayinlari.com/ataturk-dusunuyor-p362485.html">978-6-058-11078-6</a></td>
    </tr>
    <tr>
-      <td></td>
-      <td></td>
+     <td>01- Kur'an, İncil ve Tevrat'ın Sumer'deki Kökeni</td>
+     <td><a href="https://www.kaynakyayinlari.com/kuran-incil-ve-tevratin-sumerdeki-kokeni-p362156.html">978-6-058-11071-7</a></td>
+   </tr>
+   <tr>
+      <td>03- İbrahim Peygamber (Sumer Yazılarına ve Arkeolojik Buluntulara Göre)</td>
+      <td><a href="https://www.kaynakyayinlari.com/ibrahim-peygamber-p362188.html">978-6-056-89853-2</a></td>
     </tr> 
     <tr>
-     <td></td>
-     <td></td>
+     <td>04- İnanna'nın Aşkı(Sumer'de İnanç ve Kutsal Evlenme)</td>
+     <td><a href="https://www.kaynakyayinlari.com/inannanin-aski-p362210.html">978-6-057-70711-6</a></td>
+   </tr>
+   <tr>
+     <td>05- Hititler ve Hattuşa (İştar'ın Kaleminden)</td>
+     <td><a href="https://www.kaynakyayinlari.com/hititler-ve-hattusa-p362242.html">978-6-056-89854-9</a></td>
+   </tr>
+   <tr>
+     <td>06- Gilgameş (Tarihte İlk Kral Kahraman)</td>
+     <td><a href="https://www.kaynakyayinlari.com/gilgames-p362254.html">978-6-056-92173-5</a></td>
+   </tr>
+   <tr>
+     <td>07- Ortadoğu Uygarlık Mirası -1</td>
+     <td><a href="https://www.kaynakyayinlari.com/ortadogu-uygarlik-mirasi-1-p362311.html">978-6-057-70713-0</a></td>
+   </tr>
+   <tr>
+     <td>08- Ortadoğu Uygarlık Mirası -2</td>
+     <td><a href="https://www.kaynakyayinlari.com/ortadogu-uygarlik-mirasi-2-p362312.html"></a>978-6-058-11076-2</td>
+   </tr>
+   <tr>
+     <td>09- Vatandaşlık Tepkilerim</td>
+     <td><a href="https://www.kaynakyayinlari.com/vatandaslik-tepkilerim-p362442.html">978-6-057-70730-7</a></td>
+   </tr>
+   <tr>
+     <td>10- Bereket Kültü ve Mabet Fahişeliği</td>
+     <td><a href="https://www.kaynakyayinlari.com/bereket-kultu-ve-mabet-fahiseligi-p362444.html">978-6-056-89855-6</a></td>
+   </tr>
+   <tr>
+     <td>12-Uygarlığın Kökeni Sümerliler-1</td>
+     <td><a href="https://www.kaynakyayinlari.com/uygarligin-kokeni-sumerliler-1-p362501.html  ">978-6-058-11074-8</a></td>
+   </tr>
+    <tr>
+     <td>13-Uygarlığın Kökeni Sümerliler-2</td>
+     <td><a href="https://www.kaynakyayinlari.com/uygarligin-kokeni-sumerliler-2-p362601.html">978-6-058-11073-1</a></td>
+   </tr>
+    <tr>
+     <td>14-Sumerlilerde Tufan Tufan'da Türkler</td>
+     <td><a href="https://www.kaynakyayinlari.com/sumerlilerde-tufan-tufanda-turkler-p362526.html">978-6-058-11079-3</a></td>
+   </tr>
+    <tr>
+     <td>16-Sumerliler Türklerin Bir Koludur</td>
+     <td><a href="https://www.kaynakyayinlari.com/sumerliler-turklerin-bir-koludur-p362664.html">978-6-058-11077-9</a></td>
+   </tr>
+    <tr>
+     <td>17-Uyanın Artık!</td>
+     <td><a href="https://www.kaynakyayinlari.com/uyanin-artik-p362798.html">978-6-057-70772-7</a></td>
+   </tr>
+    <tr>
+     <td>18-Cumhuriyete Adanan Bir Ömür / Muazzez İlmiye Çığ</td>
+     <td><a href="https://www.imge.com.tr/kitap/cumhuriyet-e-adanan-bir-omur-muazzez-ilmiye-cig-9786257697156">978-6-257-69715-6</a></td>
+   </tr>
+    <tr>
+     <td>19-Sevgili Çocuklar</td>
+     <td><a href="https://www.kaynakyayinlari.com/sevgili-cocuklar-p364208.html">978-6-059-72813-3</a></td>
+   </tr>
+    <tr>
+     <td>20-Sümer Hayvan Masalları</td>
+     <td><a href="https://www.kaynakyayinlari.com/sumer-hayvan-masallari-p364277.html">978-6-058-11010-6</a></td>
+   </tr>
+   <tr>
+     <td>21-Zaman Tüneliyle Sümere Yolculuk</td>
+     <td><a href="https://www.kaynakyayinlari.com/zaman-tuneliyle-sumer-e-yolculuk-p364207.html">978-6-057-70795-6</a></td>
+   </tr>
+   <tr>
+     <td>22-Çam Bayramı</td>
+     <td><a href="https://www.kaynakyayinlari.com/cam-bayrami-p364595.html">978-6-257-69704-0</a></td>
+   </tr> 
+   <tr>
+     <td>23-İyi ki Varsınız</td>
+     <td><a href="https://www.dr.com.tr/kitap/iyi-ki-varsiniz-muazzez-ilmiye-ciga-mektuplar/edebiyat/turk-mektup/urunno=0002040934001">978-6-256-95300-0</a></td>
    </tr>
    <tr>
      <td></td>
      <td></td>
-   </tr>
-   <tr>
      <td></td>
-     <td></td>
-   </tr>
-   <tr>
      <td></td>
      <td></td>
    </tr>
-   <tr>
-     <td></td>
-     <td></td>
-   </tr>
-   <tr>
-     <td></td>
-     <td></td>
-   </tr>
-   <tr>
-     <td></td>
-     <td></td>
-   </tr>
-   <tr>
-     <td></td>
-     <td></td>
-   </tr>
-   
  </table>
 
 
