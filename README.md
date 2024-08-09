@@ -30,12 +30,12 @@
  </style></head>
 
  <head><style>
-  #p5{
-     text-align:Center;
+  #para5{
+     text-align: center;
      color:  #FC004C
-  }
- <head><style>
-
+   }
+ </style></head>
+ 
  <body>
    <h1 id="para1"> LIVRES en français 法语书籍 </h1>
  </body>
@@ -1418,7 +1418,7 @@
 
 
  <table>
-   <h1 id="p5"> 在土耳其购买  </h1>
+   <h1 id="para5"> 在土耳其购买  </h1>
    <tr>
      <th>Titre<br>İsim</th>
      <th>Auteur<br>Yazar</th>
