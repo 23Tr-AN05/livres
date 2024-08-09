@@ -29,6 +29,13 @@
    }
  </style></head>
 
+ <head><style>
+  #p5{
+     text-align:Center;
+     color:  #FC004C
+  }
+ <head><style>
+
  <body>
    <h1 id="para1"> LIVRES en français 法语书籍 </h1>
  </body>
@@ -1316,7 +1323,7 @@
  </table>
 
 
-<hr>
+ <hr>
 
 
  <table>
@@ -1409,6 +1416,35 @@
 
  <hr>
 
+
+ <table>
+   <h1 id="p5"> 在土耳其购买  </h1>
+   <tr>
+     <th>Titre<br>İsim</th>
+     <th>Auteur<br>Yazar</th>
+     <th>Genre<br>Tür</th>
+     <th>Édition<br>Yayın evi<br><sup>s'il y a / Varsa</sup></th>
+     <th> ISBN </th>
+   </tr>
+   <tr>
+     <td> Atatürk ve Sumerliler (16) </td>
+     <td rowspan="10">Muazzez <br>İlmiye <br> Çığ</td>
+     <td rowspan="">Histoire Tarih</td>
+     <td rowspan=""> Kaynak Yayınları </td>
+     <td><a href="https://www.kaynakyayinlari.com/ataturk-ve-sumerliler-p362550.html"> 978-6-056-93549-7</a></td> 
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+ </table>
+
+
+
+
+ <hr>
 
  <p>
  <h4> Fait par Ali Can <h4>
