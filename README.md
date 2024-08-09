@@ -35,7 +35,7 @@
      color:  #FC004C
    }
  </style></head>
- 
+
  <body>
    <h1 id="para1"> LIVRES en français 法语书籍 </h1>
  </body>
@@ -1429,22 +1429,59 @@
    <tr>
      <td> Atatürk ve Sumerliler (16) </td>
      <td rowspan="10">Muazzez <br>İlmiye <br> Çığ</td>
-     <td rowspan="">Histoire Tarih</td>
-     <td rowspan=""> Kaynak Yayınları </td>
+     <td rowspan="10">Histoire Tarih</td>
+     <td rowspan="10"> Kaynak Yayınları </td>
      <td><a href="https://www.kaynakyayinlari.com/ataturk-ve-sumerliler-p362550.html"> 978-6-056-93549-7</a></td> 
    </tr>
    <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+   </tr>
+   
  </table>
 
 
 
 
  <hr>
+
+ 
 
  <p>
  <h4> Fait par Ali Can <h4>
