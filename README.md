@@ -655,6 +655,14 @@
      <td>978-2-07-046934-5 </td>
      <td>Can-y</td>
    </tr>
+    <tr>
+     <td>L'Odysée</td>
+     <td>Homère</td>
+     <td>Mythologie</td>
+     <td>GF Flammarion</td>
+     <td>- </td>
+     <td>C2</td>
+   </tr>
    <tr>
      <td></td>
      <td></td>
@@ -1121,14 +1129,6 @@
      <td > C1</td>
    </tr>
    <tr>
-     <td>Sumerli Ludingirra / geçmişe dönük bilimkurgu</td>
-     <td>Muazzez İlmiye Çığ</td>
-     <td>Tarih</td>
-     <td>Kaynak Yayıncılık</td>
-     <td>978-605-68985-2-5 </td>
-     <td>C1</td>
-   </tr>
-   <tr>
      <td>Gazi Mustafa Kemal ATATÜRK</td>
      <td>İlber Ortaylı</td>
      <td>Tarih</td>
@@ -1169,6 +1169,44 @@
      <td>C1</td>
    </tr>
    <tr>
+     <td>Sumerli Ludingirra / geçmişe dönük bilimkurgu</td>
+     <td rowspan="3">Muazzez İlmiye Çığ</td>
+     <td>Tarih</td>
+     <td>Kaynak Yayıncılık</td>
+     <td>978-605-68985-2-5 </td>
+     <td>C1</td>
+   </tr>
+   <tr>
+     <td>GİLGAMEŞ <br> Tarihteki ilk kral kahraman </td>
+     <td>Tarih </td>
+     <td>Kaynak Yayıncılık</td>
+     <td>978-605-69217-3-5 </td>
+     <td></td>
+   </tr>
+   <tr>
+     <td>ATATÜRK DÜŞÜNÜYOR </td>
+     <td>Tarih </td>
+     <td></td>
+     <td>978-605-81107-8-6 </td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td> </td>
+     <td></td>
+   </tr>
+   <tr>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td> </td>
+     <td></td>
+   </tr>
+   <tr>
      <td></td>
      <td></td>
      <td></td>
@@ -1193,7 +1231,7 @@
      <th> Placement </th>
    </tr>
    <tr>
-     <td>Harry Potter and the Philosopher s stone</td>
+     <td>Harry Potter and the Philosopher's stone</td>
      <td>J.K. Rowling</td>
      <td>English</td>
      <td>Fantastic</td>
@@ -1277,6 +1315,13 @@
      <td></td>
      <td>798-2-07</td>
      <td> C1</td>
+   </tr>
+   <tr>
+     <td>малкият принц</td>
+     <td> <br></td>
+     <td></td>
+     <td></td>
+     <td>C1</td>
    </tr>
  </table>
 
