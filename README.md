@@ -663,6 +663,14 @@
      <td>- </td>
      <td>C2</td>
    </tr>
+    <tr>
+     <td>Les dieux s'amusent </td>
+     <td>Denis Lindon</td>
+     <td>Mythologie</td>
+     <td>Flammarion jeunesse</td>
+     <td>978-2-0814-7983-8 </td>
+     <td>C1</td>
+   </tr>
    <tr>
      <td></td>
      <td></td>
