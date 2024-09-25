@@ -1613,14 +1613,26 @@
 
  <hr>
 
- <script>
-  function openPopup() {
-    document.getElementById('popup').style.display = 'block';
+
+<script>
+  // Fonction pour créer un popup avec titre et contenu personnalisés
+  function createPop-def(title, content) {
+    // Injecter le titre et le contenu dans le popup
+    document.getElementById('popup-title').innerText = title;
+    document.getElementById('popup-content').innerText = content;
+    
+    // Afficher le popup et l'overlay
+    document.getElementById('pop-def').style.display = 'block';
     document.getElementById('popup-overlay').style.display = 'block';
   }
 
+  // Fonction pour ouvrir un popup (exemple d'utilisation)
+  function showPop-def() {
+    createPop-def("Bienvenue !", "Ceci est un popup personnalisé avec des paramètres dynamiques.");
+  }
 
-  function closePopup() {
+  // Fonction pour fermer le popup
+  function closePop-def() {
     document.getElementById('popup').style.display = 'none';
     document.getElementById('popup-overlay').style.display = 'none';
   }
