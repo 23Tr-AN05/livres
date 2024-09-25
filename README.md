@@ -68,26 +68,9 @@
 
  <input type="text" id="search-input" placeholder="Rechercher..." onkeyup="search()" />
 
- <!-- Résultats de la recherche -->
+
  <div id="results">
   <div class="search-result">
-    <h3>Article 1</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  </div>
-  <div class="search-result">
-    <h3>Article 2</h3>
-    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  </div>
-  <div class="search-result">
-    <h3>Article 3</h3>
-    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-  </div>
-  <div class="search-result">
-    <h3>Article 4</h3>
-    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
-  </div>
-</div>
-
 <p id="no-results" class="no-results">Aucun résultat trouvé</p>
 
    <h1 id="para1"> LIVRES en français 法语书籍 </h1>
@@ -1631,7 +1614,8 @@
      <td></td>
    </tr>
  </table>
-
+   </div>
+ </div>
 
 
 
