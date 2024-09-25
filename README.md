@@ -4,33 +4,30 @@
 
 
  <head>
- <style>
-  #pop-def {
-      display: none;
-      position: fixed;
-      left: 50%;
-      top: 50%;
-      transform: translate(-50%, -50%);
-      background-color: white;
-      padding: 20px;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
-      z-index: 1000;
+   <style>
+    #search-input {
+      width: 300px;
+      padding: 10px;
+      font-size: 16px;
     }
-
-    #popup-overlay {
+    .search-result {
       display: none;
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.5);
-      z-index: 999;
+      margin-top: 10px;
     }
-
-    #close-btn {
-      cursor: pointer;
+    .search-result.active {
+      display: block;
+    }
+    .search-result p {
+      font-size: 14px;
+      background-color: #f9f9f9;
+      padding: 5px;
+      border-radius: 4px;
+    }
+    .no-results {
+      display: none;
+      margin-top: 20px;
       color: red;
+      font-weight: bold;
     }
   </style><style>
    #para1 {
@@ -66,6 +63,33 @@
  </style></head>
 
  <body>
+
+
+
+ <input type="text" id="search-input" placeholder="Rechercher..." onkeyup="search()" />
+
+ <!-- Résultats de la recherche -->
+ <div id="results">
+  <div class="search-result">
+    <h3>Article 1</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  </div>
+  <div class="search-result">
+    <h3>Article 2</h3>
+    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  </div>
+  <div class="search-result">
+    <h3>Article 3</h3>
+    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+  </div>
+  <div class="search-result">
+    <h3>Article 4</h3>
+    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
+  </div>
+</div>
+
+<p id="no-results" class="no-results">Aucun résultat trouvé</p>
+
    <h1 id="para1"> LIVRES en français 法语书籍 </h1>
  </body>
  <table>
@@ -1614,29 +1638,29 @@
  <hr>
 
 
-<script>
-  // Fonction pour créer un popup avec titre et contenu personnalisés
-  function createPop-def(title, content) {
-    // Injecter le titre et le contenu dans le popup
-    document.getElementById('popup-title').innerText = title;
-    document.getElementById('popup-content').innerText = content;
-    
-    // Afficher le popup et l'overlay
-    document.getElementById('pop-def').style.display = 'block';
-    document.getElementById('popup-overlay').style.display = 'block';
-  }
+ <script>
+  // Fonction de recherche interne
+  function search() {
+    const input = document.getElementById('search-input').value.toLowerCase();
+    const results = document.getElementsByClassName('search-result');
+    let found = false;
 
-  // Fonction pour ouvrir un popup (exemple d'utilisation)
-  function showPop-def() {
-    createPop-def("Bienvenue !", "Ceci est un popup personnalisé avec des paramètres dynamiques.");
-  }
+    for (let i = 0; i < results.length; i++) {
+      const result = results[i];
+      const text = result.textContent.toLowerCase();
 
-  // Fonction pour fermer le popup
-  function closePop-def() {
-    document.getElementById('popup').style.display = 'none';
-    document.getElementById('popup-overlay').style.display = 'none';
+      if (text.includes(input)) {
+        result.classList.add('active');
+        found = true;
+      } else {
+        result.classList.remove('active');
+      }
+    }
+
+    // Afficher le message "Aucun résultat trouvé" si rien ne correspond
+    document.getElementById('no-results').style.display = found ? 'none' : 'block';
   }
-</script>
+ </script>
 
  <p>
  <h4> Fait par Ali Can <h4>
