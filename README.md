@@ -108,31 +108,23 @@ body {
 .search-button:hover {
     background-color: #0056b3;
 }
-</style></head>
+</style>
 
 
-
-
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Barre de Recherche Intégrée</title>
     <link rel="stylesheet" href="styles.css">
+
+
 </head>
 
 
 
- <body>
 
 
 
- <input type="text" id="search-input" placeholder="Rechercher..." onkeyup="search()" />
 
-
- <div id="results">
-  <div class="search-result">
- <p id="no-results" class="no-results">Aucun résultat trouvé</p>
-</body>
 <body>
 
 
