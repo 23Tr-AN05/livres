@@ -110,8 +110,7 @@ body {
 }
 </style>
 
-
-    <meta charset="UTF-8">
+   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Barre de Recherche Intégrée</title>
     <link rel="stylesheet" href="styles.css">
@@ -128,7 +127,7 @@ body {
 <body>
 
 
-    <div class="search-container">
+   <div class="search-container">
         <form action="/recherche" method="GET">
             <input type="text" placeholder="Rechercher..." name="search" class="search-input">
             <button type="submit" class="search-button">Chercher</button>
@@ -138,8 +137,8 @@ body {
 
 
 
-   <h1 id="para1"> LIVRES en français 法语书籍 </h1>
- </body>
+ <h1 id="para1"> LIVRES en français 法语书籍 </h1>
+
  <table>
    <tr>
      <th>Titre</th>
