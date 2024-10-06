@@ -55,86 +55,8 @@
    }
  </style></head>
 
- <head><style>
-  #para5{
-     text-align: center;
-     color:  #FC004C
-   }
- </style>
- <style>
- * {
-    box-sizing: border-box;
-}
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-.search-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #fff;
-    padding: 10px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-.search-input {
-    width: 300px;
-    padding: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    outline: none;
-    margin-right: 10px;
-}
-.search-input:focus {
-    border-color: #007bff;
-}
-.search-button {
-    background-color: #007bff;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-}
-.search-button:hover {
-    background-color: #0056b3;
-}
-</style>
 
-   <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Barre de Recherche Intégrée</title>
-    <link rel="stylesheet" href="styles.css">
-
-
-</head>
-
-
-
-
-
-
-
-<body>
-
-
-   <div class="search-container">
-        <form action="/recherche" method="GET">
-            <input type="text" placeholder="Rechercher..." name="search" class="search-input">
-            <button type="submit" class="search-button">Chercher</button>
-        </form>
-    </div>
-
-
+ <body>
 
 
  <h1 id="para1"> LIVRES en français 法语书籍 </h1>
