@@ -706,13 +706,13 @@
      <td> </td>
      <td></td>
    </tr>
- </table>
- </div>
+   </table>
+  
 
- <hr>
- <div>
+   <hr>
+ 
 
- <table class="w3-table-all w3-margin-top" id="myTable">
+   <table class="w3-table-all w3-margin-top" id="myTable">
    <h1> Littérature asiatique </h1>
    <tr>
      <th>Titre</th>
@@ -1611,26 +1611,39 @@
 
 
 
-<script>
-function myFunction() {
-  var input, filter, table, tr, td, i;
-  input = document.getElementById("myInput");
-  filter = input.value.toUpperCase();
-  table = document.getElementById("myTable");
-  tr = table.getElementsByTagName("tr");
-  for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[1];
-    if (td) {
-      txtValue = td.textContent || td.innerText;
-      if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        tr[i].style.display = "";
-      } else {
-        tr[i].style.display = "none";
-      }
-    }
-  }
-}
-</script>
+   <script>
+        function myFunction() {
+            var input, filter, table, tr, td, i, j;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("myTable");
+            tr = table.getElementsByTagName("tr");
+
+            // Loop through all rows in the table
+            for (i = 0; i < tr.length; i++) {
+                // Get all the table cells in the row
+                td = tr[i].getElementsByTagName("td");
+                let rowMatches = false;
+
+                // Loop through all columns (5 columns in this case)
+                for (j = 0; j < td.length; j++) {
+                    if (td[j]) {
+                        // Check if the text in the cell matches the filter
+                        if (td[j].textContent.toUpperCase().indexOf(filter) > -1) {
+                            rowMatches = true;
+                        }
+                    }
+                }
+
+                // If a match is found, display the row, otherwise hide it
+                if (rowMatches) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    </script>
 
 
 
