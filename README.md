@@ -706,20 +706,14 @@
      <td> </td>
      <td></td>
    </tr>
-   </table>
-  
-
-   <hr>
- 
-
-   <table class="w3-table-all w3-margin-top" id="myTable">
-   <h1> Littérature asiatique </h1>
+   <tr>
+     <td td colspan="6"> <h1> Littérature asiatique </h1></td>
+    </tr>
    <tr>
      <th>Titre</th>
      <th>Auteur</th>
      <th>Genre</th>
-     <th>Pays </th>
-     <th>Édition</th>
+     <th>Edition</th>
      <th> ISBN </th>
      <th> Placement </th>
     </tr>
@@ -728,7 +722,6 @@
      <td>Lao She<br/> 老舍</td>
       <td>Fiction</td>
      <td>中国 </td>
-     <td> Folio (2€)</td>
      <td>978-2-07-042208-1 </td> 
      <td > C1</td>
    </tr>
@@ -737,15 +730,13 @@
      <td>Qu Yuan</td>
      <td>Poésie</td>
      <td>中国 </td>
-     <td>Folio</td>
      <td>978-2-07-300474-1 </td>
-      <td>C1</td>
+     <td>C1</td>
    </tr>
    <tr>
      <td>La mort du soleil</td>
      <td rowspan="2">Yan Lianke <br/> 阎连科</td>
      <td>Roaman</td>
-     <td>中国</td>
      <td>Picquier poche / CNL</td>
      <td> 978-2-8097-1602-3</td>
      <td>C1</td>
@@ -762,7 +753,6 @@
      <td>Mort d une héroïne rouge</td>
      <td rowspan="2">Qiu Xiaolong <br/> 裘小龙</td>
      <td>Policier</td>
-     <td>中国</td>
      <td>Points / Éditions Liana Levi</td>
      <td>2-02-048887-6 </td>
      <td>C1</td>
@@ -779,7 +769,6 @@
      <td>Balzac et la petite tailleuse chinoise</td>
      <td rowspan="2">Dai Sijie <br/> 戴思杰</td>
      <td>Roman / fiction</td>
-     <td>中国</td>
      <td> Folio</td>
      <td> 2-07-041680-1</td>
      <td>C1</td>
@@ -796,7 +785,6 @@
      <td>孽子</td>
      <td>白先勇</td>
      <td>Roman / fiction</td>
-     <td>中国</td>
      <td> Picquier poche</td>
      <td>2-87730-603-8 </td>
      <td>C1</td>
@@ -805,7 +793,6 @@
      <td>Le maître de plus en plus d humour</td>
      <td>Mo Yan</td>
      <td>Nouvelle </td>
-     <td>中国</td>
      <td>Points </td>
      <td>978-2-02-0859566-1</td>
      <td>C1</td>
@@ -814,7 +801,6 @@
      <td>Le livre de Thé</td>
      <td>OKAKURA Kakuzô</td>
      <td>Essai / phi</td>
-     <td> 日本</td>
      <td>Picquier poche</td>
      <td>978-2-87730-821-9 </td>
      <td>C1</td>
@@ -823,7 +809,6 @@
      <td>Choses qui rendent heureux</td>
      <td>Sei Shônagon</td>
      <td>Fiction</td>
-     <td>日本</td>
      <td>Folio - sagesse </td>
      <td> 978-2-07-292490-3</td>
      <td>C1</td>
@@ -832,7 +817,6 @@
      <td>je suis un chat</td>
      <td>Natsume Sosêki</td>
      <td>Roman / satire / fiction-comique</td>
-     <td>日本</td>
      <td>Gallimard / UNESCO </td>
      <td> 978-2-07-070634-1</td>
      <td>C1</td>
@@ -841,7 +825,6 @@
      <td>Pachinko</td>
      <td>Min Jin Lee <br/> 이민진</td>
      <td>Roman / Fiction historique</td>
-     <td>한민국</td>
      <td>Harper Collins / Poche</td>
      <td> 979-1-0339-0895-1</td>
      <td>C1</td>
