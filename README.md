@@ -58,7 +58,7 @@
  <body>
  <div class="w3-container">
   <h1 style="color:red;"><center>家的图书目录</center></h1>
-  <p style="size:20px">Filter Table</p>
+  <p style="size:20px">Ecrivez le titre OU auteur du livre.(ou ISBN)</p>
 
   <input class="w3-input w3-border w3-padding" type="text" placeholder="Search for names.." id="myInput" onkeyup="myFunction()">
 
