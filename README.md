@@ -64,7 +64,7 @@
 
   
 
- <h1 id="para1"> LIVRES en français 法语书籍 </h1>
+ <h1 id="para1"> 法语文学 / 欧洲文学 </h1>
 
  <table class="w3-table-all w3-margin-top" id="myTable">
    <tr>
@@ -731,7 +731,7 @@
      <td></td>
    </tr>
    <tr>
-     <td td colspan="6"> <h1> Littérature asiatique </h1></td>
+     <td colspan="6"> <h1><center> 中国文学  亚洲文学 </center></h1></td>
     </tr>
    <tr>
      <th>Titre</th>
