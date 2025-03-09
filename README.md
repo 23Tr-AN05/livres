@@ -1,10 +1,8 @@
 <html>
- <meta charset="utf-8">
-
-
- <head>
- <meta name="viewport" content="width=device-width, initial-scale=1">
- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <meta charset="utf-8">
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
    <style>
     #search-input {
       width: 300px;
@@ -709,10 +707,10 @@
      <td></td>
    </tr>
  </table>
-
+ </div>
 
  <hr>
-
+ <div>
 
  <table class="w3-table-all w3-margin-top" id="myTable">
    <h1> Littérature asiatique </h1>
@@ -1609,33 +1607,37 @@
  </table>-->
  </div>
 
-  <script>
- function myFunction() {
-   var input, filter, table, tr, td, i;
-   input = document.getElementById("myInput");
-    filter = input.value.toUpperCase();
-   table = document.getElementById("myTable");
-    tr = table.getElementsByTagName("tr");
-   for (i = 0; i < tr.length; i++) {
-     td = tr[i].getElementsByTagName("td")[6];
-      if (td) {
-       txtValue = td.textContent || td.innerText;
-       if (txtValue.toUpperCase().indexOf(filter) > -1) {
-         tr[i].style.display = "";
-       } else {
-          tr[i].style.display = "none";
-        }
-     }
-   }
- }
- </script>
+
+
+
+ 
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
 
 
 
  <hr>
 
 
- <script>
+ <!--<script>
   // Fonction de recherche interne
   function search() {
     const input = document.getElementById('search-input').value.toLowerCase();
@@ -1657,7 +1659,7 @@
     // Afficher le message "Aucun résultat trouvé" si rien ne correspond
     document.getElementById('no-results').style.display = found ? 'none' : 'block';
   }
- </script>
+ </script>-->
 
  <p>
  <h4> Fait par Ali Can <h4>
