@@ -1,9 +1,10 @@
-<!DOCTYPE html>
 <html>
  <meta charset="utf-8">
 
 
  <head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
    <style>
     #search-input {
       width: 300px;
@@ -57,11 +58,17 @@
 
 
  <body>
+ <div class="w3-container">
+  <h1 style="color:red;">家的图书目录</h1>
+  <h2>Filter Table</h2>
 
+  <input class="w3-input w3-border w3-padding" type="text" placeholder="Search for names.." id="myInput" onkeyup="myFunction()">
+
+  
 
  <h1 id="para1"> LIVRES en français 法语书籍 </h1>
 
- <table>
+ <table class="w3-table-all w3-margin-top" id="myTable">
    <tr>
      <th>Titre</th>
      <th>Auteur</th>
@@ -707,7 +714,7 @@
  <hr>
 
 
- <table>
+ <table class="w3-table-all w3-margin-top" id="myTable">
    <h1> Littérature asiatique </h1>
    <tr>
      <th>Titre</th>
@@ -855,7 +862,7 @@
  <hr>
 
 
- <table>
+ <table class="w3-table-all w3-margin-top" id="myTable">
    <h1 id="para2"> Fantastique & policier  </h1>
    <tr>
      <th>Titre</th>
@@ -1360,7 +1367,7 @@
  
 
  <body>
-   <h1 id="para3"> CPGE-PCSI-Français-Filosofia-Plus</h1>
+   <h1 id="para3"> CPGE-PCSI-Français-Filosofia</h1>
  </body>
  <table>
    <tr>
@@ -1401,7 +1408,7 @@
  <hr>
 
 
- <table>
+ <!-- <table>
   <h1 id="para4">要购买的书籍</h1>
    <tr>
      <th> Titre </th>
@@ -1599,8 +1606,29 @@
      <td></td>
      <td></td>
    </tr>
- </table>
+ </table>-->
  
+
+  <script>
+ function myFunction() {
+  var input, filter, table, tr, td, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[6];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+ }
+ </script>
 
 
 
