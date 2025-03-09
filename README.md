@@ -698,6 +698,30 @@
      <td>978-2-0814-7983-8 </td>
      <td>C1</td>
    </tr>
+     <tr>
+     <td>Le temps de l'innocence </td>
+     <td>Wharton</td>
+     <td>Roman</td>
+     <td> GF Flammarion</td>
+     <td> 978-2-0804-5158-3</td> 
+     <td > C1-T</td>
+   </tr>
+   <tr>
+     <td>Tragédies complètes</td>
+     <td>Eschyle</td>
+     <td>Théâtre<br>tragédie </td>
+     <td>Folio-Classique</td>
+     <td>978-2-07-037364-2 </td>
+     <td> C1-T</td>
+   </tr>
+   <tr>
+     <td>Traité théologico-politique<br> <sup>Préface et Chapîtres XVI à XX </sup></td>
+     <td>Baruch Spinoza</td>
+     <td>Filosofia</td>
+     <td>GF Flammarion</td>
+     <td>798-2-0804-4809-5</td>
+     <td> C1-T</td>
+   </tr>
    <tr>
      <td></td>
      <td></td>
@@ -1341,46 +1365,11 @@
  </table>
 
 
- <hr>
  
 
- <body>
-   <h1 id="para3"> CPGE-PCSI-Français-Filosofia</h1>
- </body>
- <table>
-   <tr>
-     <th>Titre</th>
-     <th>Auteur</th>
-     <th>Matière</th>
-     <th>Édition</th>
-     <th> ISBN </th>
-     <th> Placement </th>
-   </tr>
-   <tr>
-     <td>Le temps de l'innocence </td>
-     <td>Wharton</td>
-     <td>Français-Filosofia</td>
-     <td> GF Flammarion</td>
-     <td> 978-2-0804-5158-3</td> 
-     <td > C1-T</td>
-   </tr>
-   <tr>
-     <td>Tragédies complètes</td>
-     <td>Eschyle</td>
-     <td>Français-Filosofia</td>
-     <td>Folio-Classique</td>
-     <td>978-2-07-037364-2 </td>
-     <td> C1-T</td>
-   </tr>
-   <tr>
-     <td>Traité théologico-politique<br> <sup>Préface et Chapîtres XVI à XX </sup></td>
-     <td>Baruch Spinoza</td>
-     <td>Français-Filosofia</td>
-     <td>GF Flammarion</td>
-     <td>798-2-0804-4809-5</td>
-     <td> C1-T</td>
-   </tr>
- </table>
+ 
+ 
+
 
 
  <hr>
