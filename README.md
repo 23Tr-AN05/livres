@@ -744,7 +744,6 @@
    <tr>
      <td>La fuite du temps</td>
      <td>Roman</td>
-     <td>中国</td>
      <td>Picquier poche / CNL</td>
      <td>978-2-8097-1323-7 </td>
      <td>C1</td>
