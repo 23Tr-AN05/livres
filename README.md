@@ -721,7 +721,7 @@
       <td>Histoir de ma vie </td>
      <td>Lao She<br/> 老舍</td>
       <td>Fiction</td>
-     <td>中国 </td>
+     <td>Folio </td>
      <td>978-2-07-042208-1 </td> 
      <td > C1</td>
    </tr>
@@ -729,7 +729,7 @@
      <td>Élégies de Chu</td>
      <td>Qu Yuan</td>
      <td>Poésie</td>
-     <td>中国 </td>
+     <td>Folio </td>
      <td>978-2-07-300474-1 </td>
      <td>C1</td>
    </tr>
@@ -759,7 +759,6 @@
    <tr>
      <td>Chine, retines ton souffle</td>
      <td>Policier</td>
-     <td>中国</td>
      <td>Points / Éditions Liana Levi</td>
      <td> 978-2-7578-7796-68</td>
      <td>C1</td>
@@ -775,7 +774,6 @@
    <tr>
      <td>L'Évangile selon Yong Sheng </td>
      <td>Fiction</td>
-     <td> 中国</td>
      <td>Folio</td>
      <td> 978-2-07-288241-8</td>
      <td>C1</td>
