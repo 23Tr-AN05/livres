@@ -858,22 +858,6 @@
      <td> </td>
      <td></td>
    </tr>
- </table>
-
-
- <hr>
-
-
- <table class="w3-table-all w3-margin-top" id="myTable">
-   <h1 id="para2"> Fantastique & policier  </h1>
-   <tr>
-     <th>Titre</th>
-     <th>Auteur</th>
-     <th>Genre</th>
-     <th>Édition</th>
-     <th> ISBN </th>
-     <th> Placement </th>
-   </tr>
    <tr>
      <td> Le seigneur des anneaux  </td>
      <td rowspan="2">J.R.R. Tolkien</td>
@@ -1150,7 +1134,7 @@
 
 
  <table>
-   <h1> Türkçe kitaplar 土耳其语书籍 </h1>
+   <h1> 土耳其语书籍 </h1>
    <tr>
      <th>Kitap İsmi</th>
      <th>Yazar</th>
