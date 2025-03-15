@@ -927,11 +927,18 @@
 <td></td>
 </tr>
 <tr>
-    <td>Une Tempête</td>
-    <td>Aimé Césaire</td>
+<td>Une Tempête</td>
+<td>Aimé Césaire</td>
+<td>Théâtre </td>
+<td>Points</td>
+<td>978-2-02-031431-2</td>
+<td>CM</td></tr>
+<tr>
+    <td>La Tempête </td>
+    <td>Shakespeare</td>
     <td>Théâtre </td>
-    <td>Points</td>
-    <td>978-2-02-031431-2</td>
+    <td>Folio théâtre</td>
+    <td>978-2-07-040315-8</td>
     <td>CM</td></tr>
 </table>
 <hr/>
