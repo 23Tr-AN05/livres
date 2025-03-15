@@ -1177,9 +1177,9 @@
     <td>-</td>
     <td>folio</td>
     <td>326-0-05-087555-4</td>
-    <td>L'Utopie</td></tr>
+    <td>S2</td></tr>
 <tr>
-    <td>Thomas More </td>
+    <td>L'Utopie </td>
     <td>Thomas More </td>
     <td>roman </td>
     <td>Folio</td>
