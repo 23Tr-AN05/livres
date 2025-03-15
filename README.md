@@ -1193,144 +1193,214 @@
 <td>-</td>
 <td>S2</td></tr>
 <tr>
-    <td>Supplément au Voyage de Bougainville </td>
-    <td>Diderot</td>
-    <td>-</td>
-    <td>Folio</td>
-    <td>978-2-07-042625-6</td>
+<td>Supplément au Voyage de Bougainville </td>
+<td>Diderot</td>
+<td>-</td>
+<td>Folio</td>
+<td>978-2-07-042625-6</td>
+<td>S2</td></tr>
+<tr>
+<td>Le vieil homme et et la mer</td>
+<td>Ernest Hemingway</td>
+<td>-</td>
+<td>Folio</td>
+<td>2-07-0333229-2</td>
+<td>S2</td></tr>
+<tr>
+<td>Zadig ou la Destinée</td>
+<td>Voltaire</td>
+<td>-</td>
+<td>Folio</td>
+<td>978-2-07-046661-0</td>
+<td>S2</td></tr>
+<tr>
+<td>Courrier sud</td>
+<td>Antoine de Saint-Exupéry</td>
+<td>roman</td>
+<td>Folio</td>
+<td>978-2-07-036080-2</td>
+<td>S2</td></tr>
+<tr>
+<td>OEdipe Roi</td>
+<td>Sophocle </td>
+<td>Théâtre </td>
+<td>Le livre de poche </td>
+<td>2-253-06713-X</td>
+<td>S2</td></tr>
+<tr>
+<td>Enfance </td>
+<td>Nathalie Sarraute </td>
+<td>-</td>
+<td>Folio</td>
+<td>978-2-07-286480-3</td>
+<td>S2</td></tr>
+<tr>
+<td>L'île des esclaves </td>
+<td>Marivaux</td>
+<td>ANALYSE</td>
+<td>Atlande</td>
+<td>978-2-35030-759-6</td>
+<td>S2</td></tr>
+<tr>
+<td>Barbe Bleue</td>
+<td>Amélie Nothomb</td>
+<td>roman</td>
+<td>Le livre de poche </td>
+<td>978-2-253-19414-9</td>
+<td>S2</td></tr>
+<tr>
+<td>Alice au pays de merveilles</td>
+<td>Lewis Carroll</td>
+<td>-</td>
+<td>Le livre de poche </td>
+<td>978-2-253-08244-6</td>
+<td>S2</td></tr>
+<tr>
+<td>Voyage à Lilliput </td>
+<td>Swift</td>
+<td>-</td>
+<td>Etonnants-classiques</td>
+<td>978-2-0813-9577-0</td>
+<td>S2</td></tr>
+<tr>
+<td>L'eneide </td>
+<td>Virgile</td>
+<td>-</td>
+<td>GF- Flammarion </td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+<td>Rhinocéros </td>
+<td>Ionesco</td>
+<td>Théâtre </td>
+<td>folio</td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+<td>Le mythe de Sisyphe </td>
+<td>Albert Camus </td>
+<td>Essai philosophique </td>
+<td>Folio - essais </td>
+<td>2-07-032288-2</td>
+<td>S2</td></tr>
+<tr>
+<td>Comment Wang-Fô fut sauvé et autres nouvelles </td>
+<td>Marguerite Yourcenar </td>
+<td>-</td>
+<td>Folio plus </td>
+<td>978-2-07-034457</td>
+<td>S2</td></tr>
+<tr>
+<td>Désert </td>
+<td>Le Clézio </td>
+<td>rroman</td>
+<td>folio</td>
+<td>2-07-037670-2</td>
+<td>S2</td></tr>
+<tr>
+<td>Britannicus </td>
+<td>Racine </td>
+<td>théâtre </td>
+<td>Hatier </td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+<td>Candide </td>
+<td>Voltaire </td>
+<td>Théâtre </td>
+<td>Hatier </td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+<td>Phèdre</td>
+<td>Racine </td>
+<td>théâtre </td>
+<td>folio </td>
+<td>2-07-038763-1</td>
+<td>S2</td></tr>
+<tr>
+<td>Les fleur du  mal</td>
+<td>Baudelaire</td>
+<td>Poésie </td>
+<td>Hatier </td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+<td>La maison Tellier </td>
+<td>Maupassant </td>
+<td>roman </td>
+<td>Le livre de poche </td>
+<td>2-253-01345-5</td>
+<td>S2</td></tr>
+<tr>
+    <td>Les Caractères</td>
+    <td>La Bruyère </td>
+    <td>Littératures des Idées</td>
+    <td>GF</td>
+    <td>978-2-0812-6078-8</td>
     <td>S2</td></tr>
 <tr>
-    <td>Le vieil homme et et la mer</td>
-    <td>Ernest Hemingway</td>
-    <td>-</td>
-    <td>Folio</td>
-    <td>2-07-0333229-2</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Zadig ou la Destinée</td>
-    <td>Voltaire</td>
-    <td>-</td>
-    <td>Folio</td>
-    <td>978-2-07-046661-0</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Courrier sud</td>
-    <td>Antoine de Saint-Exupéry</td>
-    <td>roman</td>
-    <td>Folio</td>
-    <td>978-2-07-036080-2</td>
-    <td>S2</td></tr>
-<tr>
-    <td>OEdipe Roi</td>
-    <td>Sophocle </td>
+    <td>Ubu roi</td>
+    <td>Jarry </td>
     <td>Théâtre </td>
-    <td>Le livre de poche </td>
-    <td>2-253-06713-X</td>
+    <td>Folio</td>
+    <td>978-2-07-042354-5</td>
     <td>S2</td></tr>
 <tr>
-    <td>Enfance </td>
-    <td>Nathalie Sarraute </td>
+    <td>La guerre de Troie n'aura pas lieu </td>
+    <td>Jean Giraudoux</td>
+    <td>Théâtre</td>
+    <td>Le livre de poche </td>
+    <td>-</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Le roman de Renart</td>
+    <td>-</td>
     <td>-</td>
     <td>Folio</td>
-    <td>978-2-07-286480-3</td>
+    <td>2-07-037776-8</td>
     <td>S2</td></tr>
 <tr>
-    <td>L'île des esclaves </td>
-    <td>Marivaux</td>
+    <td>Code 612 qui a tué le Petit Prince ?</td>
+    <td>Michel Bussi </td>
+    <td>-</td>
+    <td>Pocket </td>
+    <td>978-2-266-32821-0</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Histoire de MMe de La Pommeraye </td>
+    <td>Diderot </td>
+    <td>-</td>
+    <td>Folio</td>
+    <td>978-2-07-283025-9</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Vol de nuit </td>
+    <td>Antoine de Saint-Exupéry </td>
+    <td>roman</td>
+    <td>Le livre de poche </td>
+    <td>-</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Les fleur du mal </td>
+    <td>Beaudelaire </td>
     <td>ANALYSE</td>
-    <td>Atlande</td>
-    <td>978-2-35030-759-6</td>
+    <td>Nathan </td>
+    <td>978-209-186495-2</td>
     <td>S2</td></tr>
 <tr>
-    <td>Barbe Bleue</td>
-    <td>Amélie Nothomb</td>
-    <td>roman</td>
-    <td>Le livre de poche </td>
-    <td>978-2-253-19414-9</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Alice au pays de merveilles</td>
-    <td>Lewis Carroll</td>
+    <td>L'An 2440</td>
+    <td>Louis-Sébastine Mercier </td>
     <td>-</td>
-    <td>Le livre de poche </td>
-    <td>978-2-253-08244-6</td>
+    <td>La découverte Poche </td>
+    <td>978-2-7071-3117-1</td>
     <td>S2</td></tr>
 <tr>
-    <td>Voyage à Lilliput </td>
-    <td>Swift</td>
-    <td>-</td>
-    <td>Etonnants-classiques</td>
-    <td>978-2-0813-9577-0</td>
-    <td>S2</td></tr>
-<tr>
-    <td>L'eneide </td>
-    <td>Virgile</td>
-    <td>-</td>
-    <td>GF- Flammarion </td>
-    <td>-</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Rhinocéros </td>
-    <td>Ionesco</td>
-    <td>Théâtre </td>
-    <td>folio</td>
-    <td>-</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Le mythe de Sisyphe </td>
-    <td>Albert Camus </td>
-    <td>Essai philosophique </td>
-    <td>Folio - essais </td>
-    <td>2-07-032288-2</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Comment Wang-Fô fut sauvé et autres nouvelles </td>
-    <td>Marguerite Yourcenar </td>
-    <td>-</td>
-    <td>Folio plus </td>
-    <td>978-2-07-034457</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Désert </td>
-    <td>Le Clézio </td>
-    <td>rroman</td>
-    <td>folio</td>
-    <td>2-07-037670-2</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Britannicus </td>
-    <td>Racine </td>
-    <td>théâtre </td>
-    <td>Hatier </td>
-    <td>-</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Candide </td>
-    <td>Voltaire </td>
-    <td>Théâtre </td>
-    <td>Hatier </td>
-    <td>-</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Phèdre</td>
-    <td>Racine </td>
-    <td>théâtre </td>
-    <td>folio </td>
-    <td>2-07-038763-1</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Les fleur du  mal</td>
-    <td>Baudelaire</td>
-    <td>Poésie </td>
-    <td>Hatier </td>
-    <td>-</td>
-    <td>S2</td></tr>
-<tr>
-    <td>La maison Tellier </td>
-    <td>Maupassant </td>
-    <td>roman </td>
-    <td>Le livre de poche </td>
-    <td>2-253-01345-5</td>
+    <td>Une vie </td>
+    <td>Maupassant</td>
+    <td>novelle </td>
+    <td>Maxi-Poche </td>
+    <td>2-87714-134-9</td>
     <td>S2</td></tr>
 </table>
 <hr/>
