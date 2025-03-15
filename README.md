@@ -941,178 +941,255 @@
 <td>978-2-07-040315-8</td>
 <td>CM</td></tr>
 <tr>
-    <td>Tristes tropiques</td>
-    <td>Claude Lévi-Strauss</td>
-    <td>-</td>
-    <td>Pocket</td>
-    <td>978-2-266-11982-5</td>
-    <td>S1</td></tr>
+<td>Tristes tropiques</td>
+<td>Claude Lévi-Strauss</td>
+<td>-</td>
+<td>Pocket</td>
+<td>978-2-266-11982-5</td>
+<td>S1</td></tr>
 <tr>
-    <td>Le roman de Renart </td>
-    <td>-</td>
-    <td>-</td>
-    <td>Folio classique </td>
-    <td>2-07-037776-8</td>
-    <td>S1</td></tr>
+<td>Le roman de Renart </td>
+<td>-</td>
+<td>-</td>
+<td>Folio classique </td>
+<td>2-07-037776-8</td>
+<td>S1</td></tr>
 <tr>
-    <td>Gargantua </td>
-    <td>François Rabelais </td>
-    <td>Littérature des Idées</td>
-    <td>Hatier scolaire</td>
-    <td>978-2-401-07849-9</td>
-    <td>S1</td></tr>
+<td>Gargantua </td>
+<td>François Rabelais </td>
+<td>Littérature des Idées</td>
+<td>Hatier scolaire</td>
+<td>978-2-401-07849-9</td>
+<td>S1</td></tr>
 <tr>
-    <td>Entre les murs</td>
-    <td>François Bégaudeau</td>
-    <td>roman</td>
-    <td>Folio</td>
-    <td>978-2-07-034290-7</td>
-    <td>S1</td></tr>
+<td>Entre les murs</td>
+<td>François Bégaudeau</td>
+<td>roman</td>
+<td>Folio</td>
+<td>978-2-07-034290-7</td>
+<td>S1</td></tr>
 <tr>
-    <td>Nouvelle hostoire de Mouchette </td>
-    <td>Georges Bernanos </td>
-    <td>-</td>
-    <td>Le livre de poche</td>
-    <td>-</td>
-    <td>S1</td></tr>
+<td>Nouvelle hostoire de Mouchette </td>
+<td>Georges Bernanos </td>
+<td>-</td>
+<td>Le livre de poche</td>
+<td>-</td>
+<td>S1</td></tr>
 <tr>
-    <td>Le Tartuffe</td>
-    <td>Molière</td>
-    <td>Folio classique </td>
-    <td>Folio classique </td>
-    <td>978-2-07-044994-1</td>
-    <td>S1</td></tr>
+<td>Le Tartuffe</td>
+<td>Molière</td>
+<td>Folio classique </td>
+<td>Folio classique </td>
+<td>978-2-07-044994-1</td>
+<td>S1</td></tr>
 <tr>
-    <td>La Dame de pique et Les Récits de feu Ivan Petrovitch Belkine </td>
-    <td>Pouchkine</td>
-    <td>-</td>
-    <td>Le livre de Poche </td>
-    <td>978-2-253-03927-3</td>
-    <td>S1</td></tr>
+<td>La Dame de pique et Les Récits de feu Ivan Petrovitch Belkine </td>
+<td>Pouchkine</td>
+<td>-</td>
+<td>Le livre de Poche </td>
+<td>978-2-253-03927-3</td>
+<td>S1</td></tr>
 <tr>
-    <td>La psychologie de l'enfant </td>
-    <td>Jean Piaget et Bärbel Inhelder</td>
-    <td>-</td>
-    <td>Que sais-je :</td>
-    <td>2-13-044689-2</td>
-    <td>S1</td></tr>
+<td>La psychologie de l'enfant </td>
+<td>Jean Piaget et Bärbel Inhelder</td>
+<td>-</td>
+<td>Que sais-je :</td>
+<td>2-13-044689-2</td>
+<td>S1</td></tr>
 <tr>
-    <td>Discours du récit </td>
-    <td>Gérard Genette</td>
-    <td>-</td>
-    <td>Poinnt</td>
-    <td>978-2-7578-0538-1</td>
-    <td>S1</td></tr>
+<td>Discours du récit </td>
+<td>Gérard Genette</td>
+<td>-</td>
+<td>Poinnt</td>
+<td>978-2-7578-0538-1</td>
+<td>S1</td></tr>
 <tr>
-    <td>Le journal d'Anne Frank</td>
-    <td>Anne Frank</td>
-    <td>autobiographie</td>
-    <td>Le livre de poche </td>
-    <td>978-2-253-07309-3</td>
-    <td>S1</td></tr>
+<td>Le journal d'Anne Frank</td>
+<td>Anne Frank</td>
+<td>autobiographie</td>
+<td>Le livre de poche </td>
+<td>978-2-253-07309-3</td>
+<td>S1</td></tr>
 <tr>
-    <td>Pauline </td>
-    <td>Dumas</td>
-    <td>Roman</td>
-    <td>Folio</td>
-    <td>978-2-07-041230-3</td>
-    <td>S1</td></tr>
+<td>Pauline </td>
+<td>Dumas</td>
+<td>Roman</td>
+<td>Folio</td>
+<td>978-2-07-041230-3</td>
+<td>S1</td></tr>
 <tr>
-    <td>La grande traversée de l'Ouest en bus</td>
-    <td>Jack Kerouac</td>
-    <td>Folio </td>
-    <td>Folio</td>
-    <td>978-2-07-288543-3</td>
-    <td>S1</td></tr>
+<td>La grande traversée de l'Ouest en bus</td>
+<td>Jack Kerouac</td>
+<td>Folio </td>
+<td>Folio</td>
+<td>978-2-07-288543-3</td>
+<td>S1</td></tr>
 <tr>
-    <td>Le passe-muraille </td>
-    <td>Marcel Aymé</td>
-    <td>roman</td>
-    <td>Folio</td>
-    <td>-</td>
-    <td>S1</td></tr>
+<td>Le passe-muraille </td>
+<td>Marcel Aymé</td>
+<td>roman</td>
+<td>Folio</td>
+<td>-</td>
+<td>S1</td></tr>
 <tr>
-    <td>La grammaire est une chanson douce</td>
-    <td>Erik Orsenna</td>
-    <td>-</td>
-    <td>Le livre de Poche </td>
-    <td>978-2-253-14910-1</td>
-    <td>S1</td></tr>
+<td>La grammaire est une chanson douce</td>
+<td>Erik Orsenna</td>
+<td>-</td>
+<td>Le livre de Poche </td>
+<td>978-2-253-14910-1</td>
+<td>S1</td></tr>
 <tr>
-    <td>Vacances de Pâques</td>
-    <td>Marcel Proust</td>
-    <td>-</td>
-    <td>Folio</td>
-    <td>978-2-07-286636-4</td>
-    <td>S1</td></tr>
+<td>Vacances de Pâques</td>
+<td>Marcel Proust</td>
+<td>-</td>
+<td>Folio</td>
+<td>978-2-07-286636-4</td>
+<td>S1</td></tr>
 <tr>
-    <td>Dora Bruder </td>
-    <td>Patrick modiano</td>
-    <td>Roman</td>
-    <td>Folio</td>
-    <td>2-07-040848-5</td>
-    <td>S1</td></tr>
+<td>Dora Bruder </td>
+<td>Patrick modiano</td>
+<td>Roman</td>
+<td>Folio</td>
+<td>2-07-040848-5</td>
+<td>S1</td></tr>
 <tr>
-    <td>Quand dire, c'est faire </td>
-    <td>J.L. Austin </td>
-    <td>-</td>
-    <td>points-essais </td>
-    <td>2-02-012569-2</td>
-    <td>S1</td></tr>
+<td>Quand dire, c'est faire </td>
+<td>J.L. Austin </td>
+<td>-</td>
+<td>points-essais </td>
+<td>2-02-012569-2</td>
+<td>S1</td></tr>
 <tr>
-    <td>Phèdre </td>
-    <td>Racine </td>
-    <td>théâtre </td>
-    <td></td>
-    <td>978-2-01-169176-7</td>
-    <td>S1</td></tr>
+<td>Phèdre </td>
+<td>Racine </td>
+<td>théâtre </td>
+<td></td>
+<td>978-2-01-169176-7</td>
+<td>S1</td></tr>
 <tr>
-    <td>Britannicus </td>
-    <td>Racine </td>
-    <td>Théâtre </td>
-    <td>Le livre de Poche </td>
-    <td>2-253-03795-8</td>
-    <td>S1</td></tr>
+<td>Britannicus </td>
+<td>Racine </td>
+<td>Théâtre </td>
+<td>Le livre de Poche </td>
+<td>2-253-03795-8</td>
+<td>S1</td></tr>
 <tr>
-    <td>Aurélia </td>
-    <td>Gérard de Nerval</td>
-    <td>nouvelles </td>
-    <td>Le livre de poche </td>
-    <td>2-253-01066-9</td>
-    <td>S1</td></tr>
+<td>Aurélia </td>
+<td>Gérard de Nerval</td>
+<td>nouvelles </td>
+<td>Le livre de poche </td>
+<td>2-253-01066-9</td>
+<td>S1</td></tr>
 <tr>
-    <td>Les Regrets , Les Antiquités de Rome</td>
-    <td>Joachim Du Bellay </td>
-    <td>Poèsie</td>
-    <td>Gallimard</td>
-    <td>2-07-032147-9</td>
-    <td>S1</td></tr>
+<td>Les Regrets , Les Antiquités de Rome</td>
+<td>Joachim Du Bellay </td>
+<td>Poèsie</td>
+<td>Gallimard</td>
+<td>2-07-032147-9</td>
+<td>S1</td></tr>
 <tr>
-    <td>Printemps et autres saisons</td>
-    <td>Le Clézio</td>
-    <td>Roman</td>
-    <td>Folio</td>
-    <td>2-07-038377-6</td>
-    <td>S1</td></tr>
+<td>Printemps et autres saisons</td>
+<td>Le Clézio</td>
+<td>Roman</td>
+<td>Folio</td>
+<td>2-07-038377-6</td>
+<td>S1</td></tr>
 <tr>
-    <td>Nouveau dictionnaire encyclopédique des sciences du langage </td>
-    <td>Oswald Ducrot et Jean-Marie Schaeffer</td>
-    <td>Points -essais</td>
-    <td>Points-essais</td>
-    <td>2-02-038181-8</td>
-    <td>S1</td></tr>
+<td>Nouveau dictionnaire encyclopédique des sciences du langage </td>
+<td>Oswald Ducrot et Jean-Marie Schaeffer</td>
+<td>Points -essais</td>
+<td>Points-essais</td>
+<td>2-02-038181-8</td>
+<td>S1</td></tr>
 <tr>
-    <td>Dom Juan </td>
-    <td>Molière</td>
-    <td>théâtre </td>
-    <td>Hatier </td>
-    <td>-</td>
+<td>Dom Juan </td>
+<td>Molière</td>
+<td>théâtre </td>
+<td>Hatier </td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+<td>Le bourgeois gentilhomme</td>
+<td>Molière</td>
+<td>théâtre </td>
+<td>ulb</td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+    <td>Contes de la Bécasse</td>
+    <td>Maupassant</td>
+    <td>contes</td>
+    <td>folio classique </td>
+    <td>978-2-07-046667-2</td>
     <td>S2</td></tr>
 <tr>
-    <td>Le bourgeois gentilhomme</td>
-    <td>Molière</td>
-    <td>théâtre </td>
-    <td>ulb</td>
+    <td>Contes du jour et de la nuit </td>
+    <td>Maupassant </td>
+    <td>contes</td>
+    <td>GF-Flammarion </td>
+    <td>2-08-070292-0</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Contes libertins </td>
+    <td>Jean de la Fontaine </td>
+    <td>contes</td>
+    <td>succès du livre </td>
+    <td>2743419784</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Cinq semaines en ballon</td>
+    <td>Jules Verne</td>
+    <td>roman</td>
+    <td>Maxi-poche </td>
+    <td>2-7434-3161-X</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Germinal</td>
+    <td>Zola</td>
+    <td>Roman</td>
+    <td>Le livre de poche</td>
+    <td>978-2-253-00422-6</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Moderato cantabile</td>
+    <td>Marguerite Duras</td>
+    <td>roman</td>
+    <td>Edition de Minuit </td>
+    <td>2-7073-0314-3</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Lettres de mmon moulin </td>
+    <td>Alphonse Daudet</td>
+    <td>Roman</td>
+    <td>Folio</td>
+    <td>2-07-040889-X</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Lettres de la Marquise de M*** au Compte de R***</td>
+    <td>Claude Crébillon </td>
+    <td>-</td>
+    <td>Rivages poche</td>
+    <td>2-7436-0703-3</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Trois histoires gourmandes</td>
+    <td>-</td>
+    <td>-</td>
+    <td>folio</td>
+    <td>326-0-05-087555-4</td>
+    <td>L'Utopie</td></tr>
+<tr>
+    <td>Thomas More </td>
+    <td>Thomas More </td>
+    <td>roman </td>
+    <td>Folio</td>
+    <td>978-2-07-043975-1</td>
+    <td>S2</td></tr>
+<tr>
+    <td>La Débâche </td>
+    <td>Zola</td>
+    <td>roman</td>
+    <td>Le livre de poche </td>
     <td>-</td>
     <td>S2</td></tr>
 </table>
