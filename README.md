@@ -1333,74 +1333,116 @@
 <td>2-253-01345-5</td>
 <td>S2</td></tr>
 <tr>
-    <td>Les Caractères</td>
-    <td>La Bruyère </td>
-    <td>Littératures des Idées</td>
-    <td>GF</td>
-    <td>978-2-0812-6078-8</td>
-    <td>S2</td></tr>
+<td>Les Caractères</td>
+<td>La Bruyère </td>
+<td>Littératures des Idées</td>
+<td>GF</td>
+<td>978-2-0812-6078-8</td>
+<td>S2</td></tr>
 <tr>
-    <td>Ubu roi</td>
-    <td>Jarry </td>
-    <td>Théâtre </td>
-    <td>Folio</td>
-    <td>978-2-07-042354-5</td>
-    <td>S2</td></tr>
+<td>Ubu roi</td>
+<td>Jarry </td>
+<td>Théâtre </td>
+<td>Folio</td>
+<td>978-2-07-042354-5</td>
+<td>S2</td></tr>
 <tr>
-    <td>La guerre de Troie n'aura pas lieu </td>
-    <td>Jean Giraudoux</td>
-    <td>Théâtre</td>
-    <td>Le livre de poche </td>
+<td>La guerre de Troie n'aura pas lieu </td>
+<td>Jean Giraudoux</td>
+<td>Théâtre</td>
+<td>Le livre de poche </td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+<td>Le roman de Renart</td>
+<td>-</td>
+<td>-</td>
+<td>Folio</td>
+<td>2-07-037776-8</td>
+<td>S2</td></tr>
+<tr>
+<td>Code 612 qui a tué le Petit Prince ?</td>
+<td>Michel Bussi </td>
+<td>-</td>
+<td>Pocket </td>
+<td>978-2-266-32821-0</td>
+<td>S2</td></tr>
+<tr>
+<td>Histoire de MMe de La Pommeraye </td>
+<td>Diderot </td>
+<td>-</td>
+<td>Folio</td>
+<td>978-2-07-283025-9</td>
+<td>S2</td></tr>
+<tr>
+<td>Vol de nuit </td>
+<td>Antoine de Saint-Exupéry </td>
+<td>roman</td>
+<td>Le livre de poche </td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+<td>Les fleur du mal </td>
+<td>Beaudelaire </td>
+<td>ANALYSE</td>
+<td>Nathan </td>
+<td>978-209-186495-2</td>
+<td>S2</td></tr>
+<tr>
+<td>L'An 2440</td>
+<td>Louis-Sébastine Mercier </td>
+<td>-</td>
+<td>La découverte Poche </td>
+<td>978-2-7071-3117-1</td>
+<td>S2</td></tr>
+<tr>
+<td>Une vie </td>
+<td>Maupassant</td>
+<td>novelle </td>
+<td>Maxi-Poche </td>
+<td>2-87714-134-9</td>
+<td>S2</td></tr>
+<tr>
+    <td>Candide </td>
+    <td>Voltaire </td>
+    <td>-</td>
+    <td>Hachette </td>
     <td>-</td>
     <td>S2</td></tr>
 <tr>
-    <td>Le roman de Renart</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Folio</td>
-    <td>2-07-037776-8</td>
+    <td>Les fausses confidences </td>
+    <td>Marivaux</td>
+    <td>théâtre </td>
+    <td>Belin gallimard </td>
+    <td>979-10-358-0717-7</td>
     <td>S2</td></tr>
 <tr>
-    <td>Code 612 qui a tué le Petit Prince ?</td>
-    <td>Michel Bussi </td>
+    <td>Candide </td>
+    <td>Voltaire </td>
     <td>-</td>
-    <td>Pocket </td>
-    <td>978-2-266-32821-0</td>
+    <td>Belin Gallimard </td>
+    <td>978-2-7011-5970-6</td>
     <td>S2</td></tr>
 <tr>
-    <td>Histoire de MMe de La Pommeraye </td>
-    <td>Diderot </td>
+    <td>Contes de monstres et de fées</td>
+    <td>Madame d'Aulnoy</td>
+    <td>conte</td>
+    <td>Etonnants - scolaire </td>
+    <td>978-2-0802-7844-9</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Le prince marcassin </td>
+    <td>Mme d'Aulnoy</td>
+    <td>conte</td>
+    <td>Librio 2£</td>
+    <td>978-2-29015-463-2</td>
+    <td>S2</td></tr>
+<tr>
+    <td>La chute de la maison Usher </td>
+    <td>Edgar Allan Poe</td>
+    <td>nouvelles</td>
+    <td>Librio</td>
     <td>-</td>
-    <td>Folio</td>
-    <td>978-2-07-283025-9</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Vol de nuit </td>
-    <td>Antoine de Saint-Exupéry </td>
-    <td>roman</td>
-    <td>Le livre de poche </td>
-    <td>-</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Les fleur du mal </td>
-    <td>Beaudelaire </td>
-    <td>ANALYSE</td>
-    <td>Nathan </td>
-    <td>978-209-186495-2</td>
-    <td>S2</td></tr>
-<tr>
-    <td>L'An 2440</td>
-    <td>Louis-Sébastine Mercier </td>
-    <td>-</td>
-    <td>La découverte Poche </td>
-    <td>978-2-7071-3117-1</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Une vie </td>
-    <td>Maupassant</td>
-    <td>novelle </td>
-    <td>Maxi-Poche </td>
-    <td>2-87714-134-9</td>
     <td>S2</td></tr>
 </table>
 <hr/>
