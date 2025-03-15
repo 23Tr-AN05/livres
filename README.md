@@ -1116,81 +1116,221 @@
 <td>-</td>
 <td>S2</td></tr>
 <tr>
-    <td>Contes de la Bécasse</td>
-    <td>Maupassant</td>
-    <td>contes</td>
-    <td>folio classique </td>
-    <td>978-2-07-046667-2</td>
-    <td>S2</td></tr>
+<td>Contes de la Bécasse</td>
+<td>Maupassant</td>
+<td>contes</td>
+<td>folio classique </td>
+<td>978-2-07-046667-2</td>
+<td>S2</td></tr>
 <tr>
-    <td>Contes du jour et de la nuit </td>
-    <td>Maupassant </td>
-    <td>contes</td>
-    <td>GF-Flammarion </td>
-    <td>2-08-070292-0</td>
-    <td>S2</td></tr>
+<td>Contes du jour et de la nuit </td>
+<td>Maupassant </td>
+<td>contes</td>
+<td>GF-Flammarion </td>
+<td>2-08-070292-0</td>
+<td>S2</td></tr>
 <tr>
-    <td>Contes libertins </td>
-    <td>Jean de la Fontaine </td>
-    <td>contes</td>
-    <td>succès du livre </td>
-    <td>2743419784</td>
-    <td>S2</td></tr>
+<td>Contes libertins </td>
+<td>Jean de la Fontaine </td>
+<td>contes</td>
+<td>succès du livre </td>
+<td>2743419784</td>
+<td>S2</td></tr>
 <tr>
-    <td>Cinq semaines en ballon</td>
-    <td>Jules Verne</td>
-    <td>roman</td>
-    <td>Maxi-poche </td>
-    <td>2-7434-3161-X</td>
-    <td>S2</td></tr>
+<td>Cinq semaines en ballon</td>
+<td>Jules Verne</td>
+<td>roman</td>
+<td>Maxi-poche </td>
+<td>2-7434-3161-X</td>
+<td>S2</td></tr>
 <tr>
-    <td>Germinal</td>
-    <td>Zola</td>
-    <td>Roman</td>
-    <td>Le livre de poche</td>
-    <td>978-2-253-00422-6</td>
-    <td>S2</td></tr>
+<td>Germinal</td>
+<td>Zola</td>
+<td>Roman</td>
+<td>Le livre de poche</td>
+<td>978-2-253-00422-6</td>
+<td>S2</td></tr>
 <tr>
-    <td>Moderato cantabile</td>
-    <td>Marguerite Duras</td>
-    <td>roman</td>
-    <td>Edition de Minuit </td>
-    <td>2-7073-0314-3</td>
-    <td>S2</td></tr>
+<td>Moderato cantabile</td>
+<td>Marguerite Duras</td>
+<td>roman</td>
+<td>Edition de Minuit </td>
+<td>2-7073-0314-3</td>
+<td>S2</td></tr>
 <tr>
-    <td>Lettres de mmon moulin </td>
-    <td>Alphonse Daudet</td>
-    <td>Roman</td>
+<td>Lettres de mmon moulin </td>
+<td>Alphonse Daudet</td>
+<td>Roman</td>
+<td>Folio</td>
+<td>2-07-040889-X</td>
+<td>S2</td></tr>
+<tr>
+<td>Lettres de la Marquise de M*** au Compte de R***</td>
+<td>Claude Crébillon </td>
+<td>-</td>
+<td>Rivages poche</td>
+<td>2-7436-0703-3</td>
+<td>S2</td></tr>
+<tr>
+<td>Trois histoires gourmandes</td>
+<td>-</td>
+<td>-</td>
+<td>folio</td>
+<td>326-0-05-087555-4</td>
+<td>S2</td></tr>
+<tr>
+<td>L'Utopie </td>
+<td>Thomas More </td>
+<td>roman </td>
+<td>Folio</td>
+<td>978-2-07-043975-1</td>
+<td>S2</td></tr>
+<tr>
+<td>La Débâche </td>
+<td>Zola</td>
+<td>roman</td>
+<td>Le livre de poche </td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+    <td>Supplément au Voyage de Bougainville </td>
+    <td>Diderot</td>
+    <td>-</td>
     <td>Folio</td>
-    <td>2-07-040889-X</td>
+    <td>978-2-07-042625-6</td>
     <td>S2</td></tr>
 <tr>
-    <td>Lettres de la Marquise de M*** au Compte de R***</td>
-    <td>Claude Crébillon </td>
+    <td>Le vieil homme et et la mer</td>
+    <td>Ernest Hemingway</td>
     <td>-</td>
-    <td>Rivages poche</td>
-    <td>2-7436-0703-3</td>
-    <td>S2</td></tr>
-<tr>
-    <td>Trois histoires gourmandes</td>
-    <td>-</td>
-    <td>-</td>
-    <td>folio</td>
-    <td>326-0-05-087555-4</td>
-    <td>S2</td></tr>
-<tr>
-    <td>L'Utopie </td>
-    <td>Thomas More </td>
-    <td>roman </td>
     <td>Folio</td>
-    <td>978-2-07-043975-1</td>
+    <td>2-07-0333229-2</td>
     <td>S2</td></tr>
 <tr>
-    <td>La Débâche </td>
-    <td>Zola</td>
+    <td>Zadig ou la Destinée</td>
+    <td>Voltaire</td>
+    <td>-</td>
+    <td>Folio</td>
+    <td>978-2-07-046661-0</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Courrier sud</td>
+    <td>Antoine de Saint-Exupéry</td>
+    <td>roman</td>
+    <td>Folio</td>
+    <td>978-2-07-036080-2</td>
+    <td>S2</td></tr>
+<tr>
+    <td>OEdipe Roi</td>
+    <td>Sophocle </td>
+    <td>Théâtre </td>
+    <td>Le livre de poche </td>
+    <td>2-253-06713-X</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Enfance </td>
+    <td>Nathalie Sarraute </td>
+    <td>-</td>
+    <td>Folio</td>
+    <td>978-2-07-286480-3</td>
+    <td>S2</td></tr>
+<tr>
+    <td>L'île des esclaves </td>
+    <td>Marivaux</td>
+    <td>ANALYSE</td>
+    <td>Atlande</td>
+    <td>978-2-35030-759-6</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Barbe Bleue</td>
+    <td>Amélie Nothomb</td>
     <td>roman</td>
     <td>Le livre de poche </td>
+    <td>978-2-253-19414-9</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Alice au pays de merveilles</td>
+    <td>Lewis Carroll</td>
     <td>-</td>
+    <td>Le livre de poche </td>
+    <td>978-2-253-08244-6</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Voyage à Lilliput </td>
+    <td>Swift</td>
+    <td>-</td>
+    <td>Etonnants-classiques</td>
+    <td>978-2-0813-9577-0</td>
+    <td>S2</td></tr>
+<tr>
+    <td>L'eneide </td>
+    <td>Virgile</td>
+    <td>-</td>
+    <td>GF- Flammarion </td>
+    <td>-</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Rhinocéros </td>
+    <td>Ionesco</td>
+    <td>Théâtre </td>
+    <td>folio</td>
+    <td>-</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Le mythe de Sisyphe </td>
+    <td>Albert Camus </td>
+    <td>Essai philosophique </td>
+    <td>Folio - essais </td>
+    <td>2-07-032288-2</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Comment Wang-Fô fut sauvé et autres nouvelles </td>
+    <td>Marguerite Yourcenar </td>
+    <td>-</td>
+    <td>Folio plus </td>
+    <td>978-2-07-034457</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Désert </td>
+    <td>Le Clézio </td>
+    <td>rroman</td>
+    <td>folio</td>
+    <td>2-07-037670-2</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Britannicus </td>
+    <td>Racine </td>
+    <td>théâtre </td>
+    <td>Hatier </td>
+    <td>-</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Candide </td>
+    <td>Voltaire </td>
+    <td>Théâtre </td>
+    <td>Hatier </td>
+    <td>-</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Phèdre</td>
+    <td>Racine </td>
+    <td>théâtre </td>
+    <td>folio </td>
+    <td>2-07-038763-1</td>
+    <td>S2</td></tr>
+<tr>
+    <td>Les fleur du  mal</td>
+    <td>Baudelaire</td>
+    <td>Poésie </td>
+    <td>Hatier </td>
+    <td>-</td>
+    <td>S2</td></tr>
+<tr>
+    <td>La maison Tellier </td>
+    <td>Maupassant </td>
+    <td>roman </td>
+    <td>Le livre de poche </td>
+    <td>2-253-01345-5</td>
     <td>S2</td></tr>
 </table>
 <hr/>
