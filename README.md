@@ -1445,74 +1445,109 @@
 <td>-</td>
 <td>S2</td></tr>
 <tr>
-    <td>Le Menteur </td>
-    <td>Corneille </td>
-    <td>Théâtre </td>
-    <td>Hachette scolaire </td>
-    <td>978-2-01-726142-1</td>
+<td>Le Menteur </td>
+<td>Corneille </td>
+<td>Théâtre </td>
+<td>Hachette scolaire </td>
+<td>978-2-01-726142-1</td>
+<td>CM</td></tr>
+<tr>
+<td>On ne badine pas avec l'amour</td>
+<td>Alfred de Musset </td>
+<td>théâtre </td>
+<td>Hatier scoalire </td>
+<td>978-2-401-10542-3</td>
+<td>CM</td></tr>
+<tr>
+<td>Manon Lescaut </td>
+<td>Abbé Prévost </td>
+<td>roman </td>
+<td>Hachette scoalire </td>
+<td>978-2-01-716694-8</td>
+<td>CM</td></tr>
+<tr>
+<td>Manon Lescaut </td>
+<td>Abbé Prévost </td>
+<td>roman </td>
+<td>folio lycée </td>
+<td>978-2-07-296477-0</td>
+<td>CM</td></tr>
+<tr>
+<td>Les fourberies de scapin </td>
+<td>Molière </td>
+<td>théâtre </td>
+<td>Librio</td>
+<td>978-2-290-21579-1</td>
+<td>CM</td></tr>
+<tr>
+<td>Ruy Blas </td>
+<td>Victor Hugo</td>
+<td>théâtre </td>
+<td>Librio</td>
+<td>978-2-290-37683-6</td>
+<td>CM</td></tr>
+<tr>
+<td>Le parti pris des choses </td>
+<td>Francis Ponge</td>
+<td>poèsie </td>
+<td>folio</td>
+<td>978-2-07-038993-3</td>
+<td>CM</td></tr>
+<tr>
+<td>Le Peau de chagrin </td>
+<td>Honoré de Balzac</td>
+<td>roman </td>
+<td>Nathan scolaire </td>
+<td>978-209-151227-3</td>
+<td>CM</td></tr>
+<tr>
+<td>Le Barbier de Séville</td>
+<td>Beaumarchais</td>
+<td>Théâtre</td>
+<td>GF</td>
+<td>978-2-0814-2779-2</td>
+<td>CM</td></tr>
+<tr>
+<td>Pour un oui pour un non</td>
+<td>Nathalie Sarraute </td>
+<td>Théâtre </td>
+<td>Folio Lycée</td>
+<td>978-2-07-305214-8</td>
+<td>CM</td></tr>
+<tr>
+<td>Anatomie d'un chœur</td>
+<td>Marie Nimier</td>
+<td>roman</td>
+<td>Folio</td>
+<td>2-07-038540-X</td>
+<td>CM</td></tr>
+<tr>
+<td>Les dieux s'amusent </td>
+<td>Denis Lindon </td>
+<td>jeunesse </td>
+<td>Flammarion jeunesse </td>
+<td>978-2-0814-7983-8</td>
+<td>CM</td></tr>
+<tr>
+    <td>L'Odyssée </td>
+    <td>Homère </td>
+    <td>epopée </td>
+    <td>Babel</td>
+    <td>978-2-7427-0579-5</td>
     <td>CM</td></tr>
 <tr>
-    <td>On ne badine pas avec l'amour</td>
-    <td>Alfred de Musset </td>
-    <td>théâtre </td>
-    <td>Hatier scoalire </td>
-    <td>978-2-401-10542-3</td>
-    <td>CM</td></tr>
-<tr>
-    <td>Manon Lescaut </td>
-    <td>Abbé Prévost </td>
-    <td>roman </td>
-    <td>Hachette scoalire </td>
-    <td>978-2-01-716694-8</td>
-    <td>CM</td></tr>
-<tr>
-    <td>Manon Lescaut </td>
-    <td>Abbé Prévost </td>
-    <td>roman </td>
-    <td>folio lycée </td>
-    <td>978-2-07-296477-0</td>
-    <td>CM</td></tr>
-<tr>
-    <td>Les fourberies de scapin </td>
-    <td>Molière </td>
-    <td>théâtre </td>
-    <td>Librio</td>
-    <td>978-2-290-21579-1</td>
-    <td>CM</td></tr>
-<tr>
-    <td>Ruy Blas </td>
-    <td>Victor Hugo</td>
-    <td>théâtre </td>
-    <td>Librio</td>
-    <td>978-2-290-37683-6</td>
-    <td>CM</td></tr>
-<tr>
-    <td>Le parti pris des choses </td>
-    <td>Francis Ponge</td>
-    <td>poèsie </td>
+    <td>Ulysse</td>
+    <td>Joyce </td>
+    <td>roman</td>
     <td>folio</td>
-    <td>978-2-07-038993-3</td>
+    <td>978-2-07-043971-3</td>
     <td>CM</td></tr>
 <tr>
-    <td>Le Peau de chagrin </td>
-    <td>Honoré de Balzac</td>
+    <td>Mademoiselle de Maupin </td>
+    <td>Gautier </td>
     <td>roman </td>
-    <td>Nathan scolaire </td>
-    <td>978-209-151227-3</td>
-    <td>CM</td></tr>
-<tr>
-    <td>Le Barbier de Séville</td>
-    <td>Beaumarchais</td>
-    <td>Théâtre</td>
-    <td>GF</td>
-    <td>978-2-0814-2779-2</td>
-    <td>CM</td></tr>
-<tr>
-    <td>Pour un oui pour un non</td>
-    <td>Nathalie Sarraute </td>
-    <td>Théâtre </td>
-    <td>Folio Lycée</td>
-    <td>978-2-07-305214-8</td>
+    <td>Folio</td>
+    <td>978-2-07-036396-4</td>
     <td>CM</td></tr>
 </table>
 <hr/>
@@ -1847,6 +1882,22 @@
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>Jane Eyre</td>
+<td>Charlotte Brontë </td>
+<td>Anglais</td>
+<td>roman</td>
+<td>Harrap's</td>
+<td>978-2-81-870835-4</td>
+<td>CM</td></tr>
+<tr>
+<td>Pride and prejudice</td>
+<td>Jane Austen</td>
+<td>Anglais</td>
+<td>roman </td>
+<td>Harrp's</td>
+<td>978-0-141-43951-8</td>
+<td>CM</td></tr>
 </table>
 <hr/>
 <h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1>
