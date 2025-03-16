@@ -1403,47 +1403,117 @@
 <td>2-87714-134-9</td>
 <td>S2</td></tr>
 <tr>
-    <td>Candide </td>
-    <td>Voltaire </td>
-    <td>-</td>
-    <td>Hachette </td>
-    <td>-</td>
-    <td>S2</td></tr>
+<td>Candide </td>
+<td>Voltaire </td>
+<td>-</td>
+<td>Hachette </td>
+<td>-</td>
+<td>S2</td></tr>
 <tr>
-    <td>Les fausses confidences </td>
-    <td>Marivaux</td>
+<td>Les fausses confidences </td>
+<td>Marivaux</td>
+<td>théâtre </td>
+<td>Belin gallimard </td>
+<td>979-10-358-0717-7</td>
+<td>S2</td></tr>
+<tr>
+<td>Candide </td>
+<td>Voltaire </td>
+<td>-</td>
+<td>Belin Gallimard </td>
+<td>978-2-7011-5970-6</td>
+<td>S2</td></tr>
+<tr>
+<td>Contes de monstres et de fées</td>
+<td>Madame d'Aulnoy</td>
+<td>conte</td>
+<td>Etonnants - scolaire </td>
+<td>978-2-0802-7844-9</td>
+<td>S2</td></tr>
+<tr>
+<td>Le prince marcassin </td>
+<td>Mme d'Aulnoy</td>
+<td>conte</td>
+<td>Librio 2£</td>
+<td>978-2-29015-463-2</td>
+<td>S2</td></tr>
+<tr>
+<td>La chute de la maison Usher </td>
+<td>Edgar Allan Poe</td>
+<td>nouvelles</td>
+<td>Librio</td>
+<td>-</td>
+<td>S2</td></tr>
+<tr>
+    <td>Le Menteur </td>
+    <td>Corneille </td>
+    <td>Théâtre </td>
+    <td>Hachette scolaire </td>
+    <td>978-2-01-726142-1</td>
+    <td>CM</td></tr>
+<tr>
+    <td>On ne badine pas avec l'amour</td>
+    <td>Alfred de Musset </td>
     <td>théâtre </td>
-    <td>Belin gallimard </td>
-    <td>979-10-358-0717-7</td>
-    <td>S2</td></tr>
+    <td>Hatier scoalire </td>
+    <td>978-2-401-10542-3</td>
+    <td>CM</td></tr>
 <tr>
-    <td>Candide </td>
-    <td>Voltaire </td>
-    <td>-</td>
-    <td>Belin Gallimard </td>
-    <td>978-2-7011-5970-6</td>
-    <td>S2</td></tr>
+    <td>Manon Lescaut </td>
+    <td>Abbé Prévost </td>
+    <td>roman </td>
+    <td>Hachette scoalire </td>
+    <td>978-2-01-716694-8</td>
+    <td>CM</td></tr>
 <tr>
-    <td>Contes de monstres et de fées</td>
-    <td>Madame d'Aulnoy</td>
-    <td>conte</td>
-    <td>Etonnants - scolaire </td>
-    <td>978-2-0802-7844-9</td>
-    <td>S2</td></tr>
+    <td>Manon Lescaut </td>
+    <td>Abbé Prévost </td>
+    <td>roman </td>
+    <td>folio lycée </td>
+    <td>978-2-07-296477-0</td>
+    <td>CM</td></tr>
 <tr>
-    <td>Le prince marcassin </td>
-    <td>Mme d'Aulnoy</td>
-    <td>conte</td>
-    <td>Librio 2£</td>
-    <td>978-2-29015-463-2</td>
-    <td>S2</td></tr>
-<tr>
-    <td>La chute de la maison Usher </td>
-    <td>Edgar Allan Poe</td>
-    <td>nouvelles</td>
+    <td>Les fourberies de scapin </td>
+    <td>Molière </td>
+    <td>théâtre </td>
     <td>Librio</td>
-    <td>-</td>
-    <td>S2</td></tr>
+    <td>978-2-290-21579-1</td>
+    <td>CM</td></tr>
+<tr>
+    <td>Ruy Blas </td>
+    <td>Victor Hugo</td>
+    <td>théâtre </td>
+    <td>Librio</td>
+    <td>978-2-290-37683-6</td>
+    <td>CM</td></tr>
+<tr>
+    <td>Le parti pris des choses </td>
+    <td>Francis Ponge</td>
+    <td>poèsie </td>
+    <td>folio</td>
+    <td>978-2-07-038993-3</td>
+    <td>CM</td></tr>
+<tr>
+    <td>Le Peau de chagrin </td>
+    <td>Honoré de Balzac</td>
+    <td>roman </td>
+    <td>Nathan scolaire </td>
+    <td>978-209-151227-3</td>
+    <td>CM</td></tr>
+<tr>
+    <td>Le Barbier de Séville</td>
+    <td>Beaumarchais</td>
+    <td>Théâtre</td>
+    <td>GF</td>
+    <td>978-2-0814-2779-2</td>
+    <td>CM</td></tr>
+<tr>
+    <td>Pour un oui pour un non</td>
+    <td>Nathalie Sarraute </td>
+    <td>Théâtre </td>
+    <td>Folio Lycée</td>
+    <td>978-2-07-305214-8</td>
+    <td>CM</td></tr>
 </table>
 <hr/>
 <table>
