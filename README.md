@@ -1529,26 +1529,93 @@
 <td>978-2-0814-7983-8</td>
 <td>CM</td></tr>
 <tr>
-    <td>L'Odyssée </td>
-    <td>Homère </td>
-    <td>epopée </td>
-    <td>Babel</td>
-    <td>978-2-7427-0579-5</td>
-    <td>CM</td></tr>
+<td>L'Odyssée </td>
+<td>Homère </td>
+<td>epopée </td>
+<td>Babel</td>
+<td>978-2-7427-0579-5</td>
+<td>CM</td></tr>
 <tr>
-    <td>Ulysse</td>
-    <td>Joyce </td>
-    <td>roman</td>
-    <td>folio</td>
-    <td>978-2-07-043971-3</td>
-    <td>CM</td></tr>
+<td>Ulysse</td>
+<td>Joyce </td>
+<td>roman</td>
+<td>folio</td>
+<td>978-2-07-043971-3</td>
+<td>CM</td></tr>
 <tr>
-    <td>Mademoiselle de Maupin </td>
-    <td>Gautier </td>
-    <td>roman </td>
-    <td>Folio</td>
-    <td>978-2-07-036396-4</td>
-    <td>CM</td></tr>
+<td>Mademoiselle de Maupin </td>
+<td>Gautier </td>
+<td>roman </td>
+<td>Folio</td>
+<td>978-2-07-036396-4</td>
+<td>CM</td></tr>
+<tr>
+<td>Discours de la servitude volontaire</td>
+<td>La Boétie</td>
+<td>Littérature des Idées</td>
+<td>Librio 3E</td>
+<td>978-2-290-38504-3</td>
+<td>N</td></tr>
+<tr>
+<td>Entreteint sur la pluralité des mondes</td>
+<td>Fontenille</td>
+<td>Littérature des Idées</td>
+<td>GF</td>
+<td>978-2-0807-1024-6</td>
+<td>N</td></tr>
+<tr>
+<td>Lettres d'une Péruvienne </td>
+<td>Françoise de Graffigny</td>
+<td>Littérature des Idées </td>
+<td>Folio</td>
+<td>Folio 978-2-07-289061-1</td>
+<td>N</td></tr>
+<tr>
+<td>
+
+
+
+Dans la foret </td>
+<td>Jean Hegland</td>
+<td>Roman (nature)</td>
+<td>TOTEM CNL</td>
+<td>978-2-35178-644-4</td>
+<td>N</td></tr>
+<tr>
+<td>La où chantent les écrevisses</td>
+<td>Delia Owens </td>
+<td>Roman (nature)</td>
+<td>Points </td>
+<td>978-2-7578-8997-8</td>
+<td>N</td></tr>
+<tr>
+<td>le mur invisible </td>
+<td>Marlen Haushofer </td>
+<td>Roman (Nature)</td>
+<td>Babel</td>
+<td>978-2-8686-9832-2</td>
+<td>N</td></tr>
+<tr>
+<td>La Peste</td>
+<td>Albert Camus </td>
+<td>Roman philosophique </td>
+<td>Folio</td>
+<td>978-2-17-034957-9</td>
+<td>N</td></tr>
+<tr>
+<td>La famille </td>
+<td>Han Jin Lee </td>
+<td>Harper collins (prix nobel)</td>
+<td>-</td>
+<td>979-1-0339-1365-8</td>
+<td>N</td></tr>
+<tr>
+    <td>La pesanteur et la Grâce </td>
+    <td>Simone Weil</td>
+    <td>Philosophie </td>
+    <td>Pocket </td>
+    <td>978-2-26-04596-4</td>
+    <td>N</td></tr>
 </table>
 <hr/>
 <table>
