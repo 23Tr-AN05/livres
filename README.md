@@ -1969,9 +1969,9 @@ Dans la foret </td>
 <hr/>
 <h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1>
 <table>
-<tr>
-<th colspan="5"><h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1></th>
-</tr>
+<!--<tr>
+<td colspan="5"><h1 id="para2"> Le Petit Prince- Antoine de SAINT-EXUPÉRY</h1></td>
+</tr>-->
 <tr>
 <th>Titre</th>
 <th>Langue</th>
@@ -2008,14 +2008,12 @@ Dans la foret </td>
 <td>C1</td>
 </tr>
 <tr>
-    <td></td>
     <td>Il Piccolo Principe</td>
     <td>Italiano</td>
     <td></td>
     <td></td>
     <td></td></tr>
 <tr>
-    <td></td>
     <td>星の王子さま</td>
     <td>日本語</td>
     <td></td>
