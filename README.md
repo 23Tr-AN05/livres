@@ -1610,12 +1610,12 @@ Dans la foret </td>
 <td>979-1-0339-1365-8</td>
 <td>N</td></tr>
 <tr>
-    <td>La pesanteur et la Grâce </td>
-    <td>Simone Weil</td>
-    <td>Philosophie </td>
-    <td>Pocket </td>
-    <td>978-2-26-04596-4</td>
-    <td>N</td></tr>
+<td>La pesanteur et la Grâce </td>
+<td>Simone Weil</td>
+<td>Philosophie </td>
+<td>Pocket </td>
+<td>978-2-26-04596-4</td>
+<td>N</td></tr>
 </table>
 <hr/>
 <table>
@@ -2007,6 +2007,20 @@ Dans la foret </td>
 <td></td>
 <td>C1</td>
 </tr>
+<tr>
+    <td></td>
+    <td>Il Piccolo Principe</td>
+    <td>Italiano</td>
+    <td></td>
+    <td></td>
+    <td></td></tr>
+<tr>
+    <td></td>
+    <td>星の王子さま</td>
+    <td>日本語</td>
+    <td></td>
+    <td></td>
+    <td></td></tr>
 </table>
 <hr/>
 <!-- <table>
