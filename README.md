@@ -1571,11 +1571,7 @@
 <td>Folio 978-2-07-289061-1</td>
 <td>N</td></tr>
 <tr>
-<td>
-
-
-
-Dans la foret </td>
+<td>Dans la foret </td>
 <td>Jean Hegland</td>
 <td>Roman (nature)</td>
 <td>TOTEM CNL</td>
@@ -1605,8 +1601,8 @@ Dans la foret </td>
 <tr>
 <td>La famille </td>
 <td>Han Jin Lee </td>
+<td>prix nobel</td>
 <td>Harper collins (prix nobel)</td>
-<td>-</td>
 <td>979-1-0339-1365-8</td>
 <td>N</td></tr>
 <tr>
