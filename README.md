@@ -1612,6 +1612,48 @@
 <td>Pocket </td>
 <td>978-2-26-04596-4</td>
 <td>N</td></tr>
+<tr>
+    <td>Poésies</td>
+    <td>Louise Labé</td>
+    <td>Poésie</td>
+    <td>Belin gallimard-lycée</td>
+    <td>979-10-358-1720-6</td>
+    <td>T</td></tr>
+<tr>
+    <td>Les Métamorphoses (17 récits)</td>
+    <td>Ovide</td>
+    <td>-</td>
+    <td>scolaire</td>
+    <td>978-2-0815-1163-7</td>
+    <td>T</td></tr>
+<tr>
+    <td>Les douze travaux d'Hercule</td>
+    <td>-</td>
+    <td>Mythologie</td>
+    <td>Folio Junior</td>
+    <td>978-2-07-064871-9</td>
+    <td>T</td></tr>
+<tr>
+    <td>L'Odyssée</td>
+    <td>Homère</td>
+    <td>épopée</td>
+    <td>Librio 2euro</td>
+    <td>978-2-290-21059-8</td>
+    <td>T</td></tr>
+<tr>
+    <td>Hernani</td>
+    <td>Victor HUGO</td>
+    <td>théâtre</td>
+    <td>Librio  2euro</td>
+    <td>978-2-290-07565-4</td>
+    <td>T</td></tr>
+<tr>
+    <td>L"épopée de Gilgamesh </td>
+    <td>-</td>
+    <td>épopée</td>
+    <td>Folio Junior</td>
+    <td>978-2-07-062761-5</td>
+    <td>T</td></tr>
 </table>
 <hr/>
 <table>
@@ -1751,6 +1793,12 @@
 <td>978-2-7540-7429-2</td>
 <td> C1</td>
 </tr>
+tr&gt;
+<td>Le petit livre de l'orthographe</td>
+<td>Julien Soulié</td>
+<td>ortograf</td>
+<td>978-2-412-10119-3</td>
+<td> C1</td>
 <tr>
 <td>Apprendre à Apprendre </td>
 <td rowspan="2">André Giordan <br/> Jérôme Saltet</td>
@@ -2004,17 +2052,35 @@
 <td>C1</td>
 </tr>
 <tr>
-    <td>Il Piccolo Principe</td>
-    <td>Italiano</td>
-    <td></td>
-    <td></td>
-    <td></td></tr>
+<td>Il Piccolo Principe</td>
+<td>Italiano</td>
+<td></td>
+<td></td>
+<td></td></tr>
 <tr>
-    <td>星の王子さま</td>
-    <td>日本語</td>
-    <td></td>
-    <td></td>
-    <td></td></tr>
+<td>星の王子さま</td>
+<td>日本語</td>
+<td></td>
+<td></td>
+<td></td></tr>
+</table>
+<hr/>
+<h1 id="para2"> 漫画 (Manga - Manhua) / 만화 (Manhwa)</h1>
+<table>
+<tr>
+<th>Titre</th>
+<th>Auteur</th>
+<th>Tome</th>
+<th>ISBN</th>
+<th>Placement</th>
+</tr>
+<tr>
+<td>Magus of the Library</td>
+<td>Mitsu Izumi</td>
+<td>1</td>
+<td>979-10-327-0467-7</td>
+<td>T</td>
+</tr>
 </table>
 <hr/>
 <table>
