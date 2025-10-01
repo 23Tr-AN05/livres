@@ -1613,47 +1613,54 @@
 <td>978-2-26-04596-4</td>
 <td>N</td></tr>
 <tr>
-    <td>Poésies</td>
-    <td>Louise Labé</td>
-    <td>Poésie</td>
-    <td>Belin gallimard-lycée</td>
-    <td>979-10-358-1720-6</td>
-    <td>T</td></tr>
+<td>Poésies</td>
+<td>Louise Labé</td>
+<td>Poésie</td>
+<td>Belin gallimard-lycée</td>
+<td>979-10-358-1720-6</td>
+<td>T</td></tr>
 <tr>
-    <td>Les Métamorphoses (17 récits)</td>
-    <td>Ovide</td>
-    <td>-</td>
-    <td>scolaire</td>
-    <td>978-2-0815-1163-7</td>
-    <td>T</td></tr>
+<td>Les Métamorphoses (17 récits)</td>
+<td>Ovide</td>
+<td>-</td>
+<td>scolaire</td>
+<td>978-2-0815-1163-7</td>
+<td>T</td></tr>
 <tr>
-    <td>Les douze travaux d'Hercule</td>
-    <td>-</td>
-    <td>Mythologie</td>
-    <td>Folio Junior</td>
-    <td>978-2-07-064871-9</td>
-    <td>T</td></tr>
+<td>Les douze travaux d'Hercule</td>
+<td>-</td>
+<td>Mythologie</td>
+<td>Folio Junior</td>
+<td>978-2-07-064871-9</td>
+<td>T</td></tr>
 <tr>
-    <td>L'Odyssée</td>
-    <td>Homère</td>
-    <td>épopée</td>
-    <td>Librio 2euro</td>
-    <td>978-2-290-21059-8</td>
-    <td>T</td></tr>
+<td>L'Odyssée</td>
+<td>Homère</td>
+<td>épopée</td>
+<td>Librio 2euro</td>
+<td>978-2-290-21059-8</td>
+<td>T</td></tr>
 <tr>
-    <td>Hernani</td>
-    <td>Victor HUGO</td>
+<td>Hernani</td>
+<td>Victor HUGO</td>
+<td>théâtre</td>
+<td>Librio  2euro</td>
+<td>978-2-290-07565-4</td>
+<td>T</td></tr>
+<tr>
+<td>L"épopée de Gilgamesh </td>
+<td>-</td>
+<td>épopée</td>
+<td>Folio Junior</td>
+<td>978-2-07-062761-5</td>
+<td>T</td></tr>
+<tr>
+    <td>La tragédie de Richard III</td>
+    <td>Shakespeare</td>
     <td>théâtre</td>
-    <td>Librio  2euro</td>
-    <td>978-2-290-07565-4</td>
-    <td>T</td></tr>
-<tr>
-    <td>L"épopée de Gilgamesh </td>
-    <td>-</td>
-    <td>épopée</td>
-    <td>Folio Junior</td>
-    <td>978-2-07-062761-5</td>
-    <td>T</td></tr>
+    <td>Folio théâtre</td>
+    <td>978-2-07-046766-2</td>
+    <td>C1</td></tr>
 </table>
 <hr/>
 <table>
